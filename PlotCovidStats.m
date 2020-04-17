@@ -3,8 +3,8 @@ close all;
 clearvars;
 
 MIN_INF_THRESH = 1000;
-
-PLOT_DIR_NAME = "Plots/" + datestr(now) + "/";
+DATE_FORMAT = 30;
+PLOT_DIR_NAME = "Plots/" + datestr(now,DATE_FORMAT) + "/";
 
 CountriesToTrack=sort([
     "Australia";
