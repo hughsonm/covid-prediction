@@ -5,6 +5,7 @@ clearvars;
 MIN_INF_THRESH = 1000;
 DATE_FORMAT = 30;
 PLOT_DIR_NAME = "Plots/" + datestr(now,DATE_FORMAT) + "/";
+LATEST_DIR_NAME = "Latest/";
 
 CountriesToTrack=sort([
     "Australia";
@@ -139,7 +140,6 @@ for fit_index = 1:length(CountriesToTrack)
     [TA,TK,TH] = meshgrid(test_alphas,test_ks,test_hs);
     TC = 0*TA;
     for rr = 1:size(TC,1)
-%         disp(rr/size(TC,1));
         for cc = 1:size(TC,2)
             for ss = 1:size(TC,3)
                 pp = [TA(rr,cc,ss);TK(rr,cc,ss);TH(rr,cc,ss)];
@@ -161,42 +161,7 @@ for fit_index = 1:length(CountriesToTrack)
     opt_cost = CF(opt_params,0);
     fprintf("Cost before search: %e\nCost after search : %e\nCost after refine : %e\n\n",...
         min_cost,search_min_cost,opt_cost);
-    params = opt_params;
-    
-%     figure();
-%     cjm1 = Inf;
-%     cjm2 = Inf;
-%     for jj = 1:size(TC,3)
-%         c_slice = TC(:,:,jj);
-%         alpha_slice = TA(:,:,jj);
-%         k_slice = TK(:,:,jj);
-%         [min_cost_here,col_idx] = min(min(c_slice));
-%         [~,row_idx] = min(c_slice(:,col_idx));
-%         if((cjm2>cjm1) && (cjm1 < min_cost_here))
-%             disp("Found min of " + num2str(cjm1) + " at jj = " + num2str(jj-1) +...
-%                 " where alpha = " + num2str(TA(row_idx,col_idx,jj-1)) +...
-%                 " k = " + num2str(TK(row_idx,col_idx,jj-1)) +...
-%                 " h = " + datestr(TH(1,1,jj-1)));
-%             disp("CG said the min of " + num2str(Sr) + " is at " +...
-%                 " alpha = " + num2str(params(1)) +...
-%                 " k = " + num2str(params(2)) +...
-%                 " h = " + datestr(params(3)));
-%             pause;
-%         end
-%         cjm2 = cjm1;
-%         cjm1 = min_cost_here;
-%         surf(TA(:,:,jj),TK(:,:,jj),db(c_slice),'LineStyle','None');
-%         colorbar;
-%         xlabel('\alpha');
-%         ylabel('k');
-%         title(datestr(TH(1,1,jj)) + ", min " + num2str(min_cost_here));
-%         view(2);
-%         disp(jj/size(TC,3));
-%         drawnow;
-%     end
-    
-    
-    
+    params = opt_params; 
     
     Sr = CF(params,0);
     St = sum((dy-mean(dy)).^2);
@@ -208,12 +173,6 @@ for fit_index = 1:length(CountriesToTrack)
     fprintf(log_fid,"As portion of pop. : %e\n", params(1)/TimeSeries(fit_index).population);
     fprintf(log_fid,"Day of most deaths : %s\n", datestr(params(3)));
     fprintf(log_fid,"Peak death rate    : %e\tdeaths per day\n\n", params(2)*params(1)/4);
-    
-    
-    
-    
-    
-    
     
     ff = figure();
     set(ff,'Name',country_to_fit);
@@ -227,10 +186,13 @@ for fit_index = 1:length(CountriesToTrack)
     ylabel("Cumulative Deaths");
     grid on;
     saveas(ff,PLOT_DIR_NAME + country_to_fit + ".png");
-    
-    
-    
+
 end
+
+[success,msg,msgid] = rmdir(LATEST_DIR_NAME,'s');
+mkdir(LATEST_DIR_NAME);
+copyfile(PLOT_DIR_NAME,LATEST_DIR_NAME);
+
 fclose(log_fid);
 
 function M = CovidModel(parameters,dx,degree)
