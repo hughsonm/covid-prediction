@@ -1,5 +1,5 @@
 # Max's COVID-19 Prediction Script
-This script attempts to predict the impact of COVID-19, based off of currently-available data.
+This script attempts to predict a lower bound on the impact of COVID-19, based off of currently-available data.
 
 ## Disclaimer
 This script assumes that people will maintain a constant level of infection-control measures. These measured include
