@@ -5,7 +5,7 @@ clearvars;
 MIN_INF_THRESH = 1000;
 FINAL_PLOT_P = 0.99;
 DATE_FORMAT = 30;
-LIN_SEARCH_PTS_PER_DIM = 20;
+LIN_SEARCH_PTS_PER_DIM = 100;
 LIN_SEARCH_SCALE = 5;
 MIN_POP_FOR_JOINED_PLOTS = 30e6;
 PLOT_DIR_NAME = "Plots/" + datestr(now,DATE_FORMAT) + "/";
@@ -219,8 +219,9 @@ for fit_index = 1:length(CountriesToTrack)
     plot(model_dx_as_dates,CovidModel(params,model_dx,0));
     plot(dx_inflection,dy_inflection,'r-.');
     text(dx_inflection(2),dy_inflection(2),...
-        "Inflection Point" + newline + num2str(peak_death_rate) + ...
-        " deaths per day");
+        "Inflection Point" + newline +...
+        datestr(dx_inflection(2)) + newline +...
+        num2str(peak_death_rate) + " deaths per day");
     plot(dx_final,dy_final,'r-.');
     text(mean(dx_final),mean(dy_final),...
         newline + "Predicted Count: " +num2str(params_alpha) +...
