@@ -5,30 +5,17 @@ clearvars;
 MIN_INF_THRESH = 1000;
 FINAL_PLOT_P = 0.99;
 DATE_FORMAT = 30;
-LIN_SEARCH_PTS_PER_DIM = 200;
+LIN_SEARCH_PTS_PER_DIM = 20;
 LIN_SEARCH_SCALE = 5;
+MIN_POP_FOR_JOINED_PLOTS = 30e6;
 PLOT_DIR_NAME = "Plots/" + datestr(now,DATE_FORMAT) + "/";
 LATEST_DIR_NAME = "Latest/";
 
-CountriesToTrack=sort([
-    "Australia";
-    "Canada";
-    "China";
-    "Iran";
-    "Italy";
-    "South_Korea";
-    "Spain";
-    "France";
-    "United_States_of_America";
-    "Japan";
-    "India";
-    "Portugal";
-    "Belgium";
-    "Switzerland";
-    "Turkey";
-    "United_Kingdom";
-    "Norway"
-    ]);
+CountriesToTrack = fileread("CountriesToTrack.txt");
+CountriesToTrack = split(CountriesToTrack,newline);
+CountriesToTrack = string(CountriesToTrack(1:end-1));
+
+
 
 %% Prepare Output Directory
 mkdir(PLOT_DIR_NAME);
@@ -37,7 +24,6 @@ log_fid = fopen(PLOT_DIR_NAME + "log.txt","w");
 
 
 %% Read in data from json-formatted source
-% wget -O covid.json https://opendata.ecdc.europa.eu/covid19/casedistribution/json/
 covid_file = './covid.json';
 
 TimeSeries = TimeSeriesFromODFile(covid_file,CountriesToTrack);
@@ -46,19 +32,25 @@ TimeSeries = TimeSeriesFromODFile(covid_file,CountriesToTrack);
 
 conf_case_fig = figure();
 set(conf_case_fig,'Name','Confirmed Cases');
+legend_for_plot = string([]);
 for ii = 1:length(TimeSeries)
-    semilogy(...
-        TimeSeries(ii).dates,...
-        TimeSeries(ii).cum_cases...
-        );
-    hold on;
-    text(...
-        TimeSeries(ii).dates(end),...
-        TimeSeries(ii).cum_cases(end),...
-        TimeSeries(ii).name);
+    if(MIN_POP_FOR_JOINED_PLOTS < TimeSeries(ii).population)
+        legend_for_plot(end+1) = TimeSeries(ii).name;
+        semilogy(...
+            TimeSeries(ii).dates,...
+            TimeSeries(ii).cum_cases...
+            );
+        hold on;
+        text(...
+            TimeSeries(ii).dates(end),...
+            TimeSeries(ii).cum_cases(end),...
+            TimeSeries(ii).name,...
+            "Interpreter","none");
+    end
 end
-legend(CountriesToTrack,'Location','northwest');
-title("Cumulative Cases by Date");
+legend(legend_for_plot,'Location','northwest',"Interpreter","none");
+title("Cumulative Cases by Date, Minimum Population " +...
+    num2str(MIN_POP_FOR_JOINED_PLOTS),"Interpreter","none");
 xlabel("Date");
 ylabel("Cumulative Confirmed Cases");
 grid on;
@@ -66,19 +58,25 @@ saveas(conf_case_fig, PLOT_DIR_NAME + "ConfCases.png");
 
 conf_death_fig = figure();
 set(conf_death_fig,'Name','Confirmed Deaths');
+legend_for_plot = string([]);
 for ii = 1:length(TimeSeries)
-    semilogy(...
-        TimeSeries(ii).dates,...
-        TimeSeries(ii).cum_deaths...
-        );
-    hold on;
-    text(...
-        TimeSeries(ii).dates(end),...
-        TimeSeries(ii).cum_deaths(end),...
-        TimeSeries(ii).name);
+    if(MIN_POP_FOR_JOINED_PLOTS < TimeSeries(ii).population)
+        legend_for_plot(end+1) = TimeSeries(ii).name;
+        semilogy(...
+            TimeSeries(ii).dates,...
+            TimeSeries(ii).cum_deaths...
+            );
+        hold on;
+        text(...
+            TimeSeries(ii).dates(end),...
+            TimeSeries(ii).cum_deaths(end),...
+            TimeSeries(ii).name,...
+            "Interpreter","none");
+    end
 end
-legend(CountriesToTrack,'Location','northwest');
-title("Cumulative Deaths by Date");
+legend(legend_for_plot,'Location','northwest');
+title("Cumulative Deaths by Date, Minimum Population " +...
+    num2str(MIN_POP_FOR_JOINED_PLOTS),"Interpreter","none");
 xlabel("Date");
 ylabel("Cumulative Confirmed Deaths");
 grid on;
@@ -86,8 +84,12 @@ saveas(conf_death_fig, PLOT_DIR_NAME + "ConfDeaths.png");
 
 since_thresh_fig = figure();
 set(since_thresh_fig,'Name',"Cases After " + num2str(MIN_INF_THRESH));
+legend_for_plot = string([]);
 for ii = 1:length(TimeSeries)
     post_thresh_mask = (MIN_INF_THRESH <= TimeSeries(ii).cum_cases);
+    if(~any(post_thresh_mask)),continue;end
+    if(TimeSeries(ii).population < MIN_POP_FOR_JOINED_PLOTS),continue;end
+    legend_for_plot(end+1) = TimeSeries(ii).name;
     thresh_date = TimeSeries(ii).dates(find(post_thresh_mask,1));
     days_since_thresh = days(...
         TimeSeries(ii).dates(post_thresh_mask)-thresh_date...
@@ -100,10 +102,14 @@ for ii = 1:length(TimeSeries)
     text(...
         days_since_thresh(end),...
         TimeSeries(ii).cum_cases(end),...
-        TimeSeries(ii).name);
+        TimeSeries(ii).name,...
+        "Interpreter","none");
 end
-legend(CountriesToTrack,'Location','southeast');
-title("Cumulative Cases After Reaching " + num2str(MIN_INF_THRESH) + " Cases");
+legend(legend_for_plot,'Location','southeast',"Interpreter","none");
+title("Cumulative Cases After Reaching " +...
+    num2str(MIN_INF_THRESH) + " Cases, Minimum Population " +...
+    num2str(MIN_POP_FOR_JOINED_PLOTS),...
+    "Interpreter","none");
 xlabel("Days Since " + num2str(MIN_INF_THRESH) + " Cases");
 ylabel("Cumulative Confirmed Cases");
 grid on;
@@ -171,8 +177,10 @@ for fit_index = 1:length(CountriesToTrack)
     [opt_params,~] = A2CG(CF,search_params,0,1e-6,2000);
     
     opt_cost = CF(opt_params,0);
-    fprintf("Cost before search: %e\nCost after search : %e\nCost after refine : %e\n\n",...
-        min_cost,search_min_cost,opt_cost);
+    fprintf("Cost before search: %e\n",min_cost);
+    fprintf("Cost after search : %e\n",search_min_cost);
+    fprintf("Cost after refine : %e\n\n",opt_cost);
+    
     params = opt_params; 
     params_alpha = params(1);
     params_k = params(2);
@@ -187,9 +195,11 @@ for fit_index = 1:length(CountriesToTrack)
     fprintf(log_fid,"COVID-19 Predictions for %s\n", country_to_fit);
     fprintf(log_fid,"R-Squared          : %e\n", r2);
     fprintf(log_fid,"Predicted deaths   : %e\n", params(1));
-    fprintf(log_fid,"As portion of pop. : %e\n", params(1)/TimeSeries(fit_index).population);
+    fprintf(log_fid,"As portion of pop. : %e\n", ...
+        params(1)/TimeSeries(fit_index).population);
     fprintf(log_fid,"Day of most deaths : %s\n", datestr(params_h));
-    fprintf(log_fid,"Peak death rate    : %e\tdeaths per day\n\n", peak_death_rate);
+    fprintf(log_fid,"Peak death rate    : %e\tdeaths per day\n\n",...
+        peak_death_rate);
     
     ff = figure();
     set(ff,'Name',country_to_fit);
@@ -201,7 +211,8 @@ for fit_index = 1:length(CountriesToTrack)
     model_dx_as_dates = datetime(model_dx,'ConvertFrom','datenum');
     dx_inflection = datetime([params_h,params_h],'ConvertFrom','datenum');
     dy_inflection = [0,params_alpha/2];
-    dx_final = datetime([min(model_dx),max(model_dx)],'ConvertFrom','datenum');
+    dx_final = datetime([min(model_dx),max(model_dx)],...
+        'ConvertFrom','datenum');
     dy_final = [params_alpha,params_alpha];
     plot(dx_as_dates,dy);
     hold on;
@@ -215,12 +226,12 @@ for fit_index = 1:length(CountriesToTrack)
         newline + "Predicted Count: " +num2str(params_alpha) +...
         " Total Deaths");
     legend("Data","Prediction");
-    title("COVID-19 Death Projections for " +country_to_fit);
+    title("COVID-19 Death Projection for " +country_to_fit,...
+        "Interpreter","none");
     xlabel("Date");
     ylabel("Cumulative Deaths");
     grid on;
     saveas(ff,PLOT_DIR_NAME + country_to_fit + ".png");
-
 end
 
 [success,msg,msgid] = rmdir(LATEST_DIR_NAME,'s');
