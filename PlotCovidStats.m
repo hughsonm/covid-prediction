@@ -122,66 +122,13 @@ for fit_index = 1:length(CountriesToTrack)
     
     dx = datenum(TimeSeries(fit_index).dates(post_thresh_mask)).';
     dy = TimeSeries(fit_index).cum_deaths(post_thresh_mask).';
-    if(isempty(dy)),continue;end
+    if(length(dx)<4),continue;end
+    params = FindOptimalParameters(...
+        dx,dy,...
+        LIN_SEARCH_SCALE,LIN_SEARCH_PTS_PER_DIM);
+        
     CF = @(pp,dd) CovidCostFunctional(pp,dx,dy,dd);
     
-    p0_assuming_end = [max(dy);0.2;dx(find(max(dy)/2<dy,1))];
-    p0_assuming_half = [2*max(dy);0.2;dx(end)];
-    p0_choices = [p0_assuming_end,p0_assuming_half];
-    
-    param_results = 0*p0_choices;
-    costs = zeros(1,size(p0_choices,2));
-    for p_idx = 1:size(p0_choices,2)
-        p0 = p0_choices(:,p_idx);
-        [params,nf] = A2CG(CF,p0,0,1e-6,2000);
-        param_results(:,p_idx) = params;
-        costs(p_idx) = CF(params,0);
-    end
-    [min_cost,min_idx] = min(costs);
-    p0 = p0_choices(:,min_idx);
-    params = param_results(:,min_idx);
-    
-    
-    test_alphas = linspace(...
-        params(1)/LIN_SEARCH_SCALE,...
-        params(1)*LIN_SEARCH_SCALE,...
-        LIN_SEARCH_PTS_PER_DIM)';
-    test_ks = linspace(...
-        params(2)/LIN_SEARCH_SCALE,...
-        params(2)*LIN_SEARCH_SCALE,...
-        LIN_SEARCH_PTS_PER_DIM)';
-    test_hs = linspace(...
-        min(dx),...
-        min(dx) + LIN_SEARCH_SCALE*(max(dx)-min(dx)),...
-        LIN_SEARCH_PTS_PER_DIM)';
-    
-    [TA,TK,TH] = meshgrid(test_alphas,test_ks,test_hs);
-    TC = 0*TA;
-    for rr = 1:size(TC,1)
-        for cc = 1:size(TC,2)
-            for ss = 1:size(TC,3)
-                pp = [TA(rr,cc,ss);TK(rr,cc,ss);TH(rr,cc,ss)];
-                TC(rr,cc,ss) = CF(pp,0);
-            end
-        end
-    end
-    [search_min_cost,l_idx] = min(TC(:));
-    [r_idx,c_idx,s_idx] = ind2sub(size(TC),l_idx);    
-    
-    search_params = [
-        TA(r_idx,c_idx,s_idx);
-        TK(r_idx,c_idx,s_idx);
-        TH(r_idx,c_idx,s_idx)
-        ];
-    
-    [opt_params,~] = A2CG(CF,search_params,0,1e-6,2000);
-    
-    opt_cost = CF(opt_params,0);
-    fprintf("Cost before search: %e\n",min_cost);
-    fprintf("Cost after search : %e\n",search_min_cost);
-    fprintf("Cost after refine : %e\n\n",opt_cost);
-    
-    params = opt_params; 
     params_alpha = params(1);
     params_k = params(2);
     params_h = params(3);
@@ -240,6 +187,42 @@ mkdir(LATEST_DIR_NAME);
 copyfile(PLOT_DIR_NAME,LATEST_DIR_NAME);
 
 fclose(log_fid);
+
+function opt_params = FindOptimalParameters(dx,dy,scale,n_search_pts)
+search_alphas = max(dy)*10.^(linspace(0,scale,n_search_pts))';
+search_k = linspace(0.01,1.0,n_search_pts)';
+search_h = linspace(min(dx),min(dx)+scale*(max(dx)-min(dx)),n_search_pts)';
+
+cf = @(pp,dd) CovidCostFunctional(pp,dx,dy,dd);
+
+[TA,TK,TH] = meshgrid(search_alphas,search_k,search_h);
+TC = 0*TA;
+for rr = 1:size(TC,1)
+    for cc = 1:size(TC,2)
+        for ss = 1:size(TC,3)
+            pp = [
+                TA(rr,cc,ss);
+                TK(rr,cc,ss);
+                TH(rr,cc,ss)
+                ];
+            TC(rr,cc,ss) = cf(pp,0);
+        end
+    end
+end
+[search_min_cost,l_idx] = min(TC(:));
+[r_idx,c_idx,s_idx] = ind2sub(size(TC),l_idx);
+search_params = [
+    TA(r_idx,c_idx,s_idx);
+    TK(r_idx,c_idx,s_idx);
+    TH(r_idx,c_idx,s_idx)
+    ];
+    
+[opt_params,~] = A2CG(cf,search_params,0,1e-6,2000);
+opt_cost = cf(opt_params,0);
+if(search_min_cost < opt_cost)
+    opt_params = search_params;
+end
+end
 
 function M = CovidModel(parameters,dx,degree)
 A = parameters(1);
