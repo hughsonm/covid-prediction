@@ -126,7 +126,7 @@ for fit_index = 1:length(CountriesToTrack)
     params = FindOptimalParameters(...
         dx,dy,...
         LIN_SEARCH_SCALE,LIN_SEARCH_PTS_PER_DIM);
-        
+       
     CF = @(pp,dd) CovidCostFunctional(pp,dx,dy,dd);
     
     params_alpha = params(1);
