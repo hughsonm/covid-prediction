@@ -10,6 +10,7 @@ This script assumes that people will maintain a constant level of infection-cont
 That assumption is not true. All of these measures will eventually stop. Therefore, the predicted death tolls reported here are a **lower bound** on the total number of deaths that will be observed.
 
 ## Graphs
+See graphs for all qualifying countries [here](../blob/master/Latest)
 ![Cases Since Threshold](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/SinceThresh.png)
 ![Deaths By Date](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/ConfDeaths.png)
 
