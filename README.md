@@ -18,6 +18,7 @@ See graphs for all qualifying countries [here](./Latest)
 ![Italy](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Italy.png)
 ![France](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/France.png)
 ![China](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/China.png)
+![ChinaAdjusted](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/China_Adjusted.png)
 
 ![Australia](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Australia.png)
 ![Belgium](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Belgium.png)

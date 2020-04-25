@@ -27,6 +27,7 @@ log_fid = fopen(PLOT_DIR_NAME + "log.txt","w");
 covid_file = './covid.json';
 
 TimeSeries = TimeSeriesFromODFile(covid_file,CountriesToTrack);
+CountriesToTrack(end+1) = "China_Adjusted";
 
 %% Plot Time Series in Various Ways
 
