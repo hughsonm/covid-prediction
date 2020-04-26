@@ -1,6 +1,12 @@
 # Max's COVID-19 Prediction Script
 This script attempts to predict a lower bound on the impact of COVID-19, based off of currently-available data.
 
+# Method
+Predictions are made by fitting a sigmoid function to the reported death cases. Fitting a sigmoid function to data is a non-linear optimization problem. This problem 
+is solved in two steps:
+1. An exhaustive search over the three parameters describing the sigmoid function.
+2. A conjugate-gradient optimization of those three parameters, using the result from the exhaustive search as an initial guess
+
 ## Disclaimer
 This script assumes that people will maintain a constant level of infection-control measures. These measured include
 * closing schools and workplaces
