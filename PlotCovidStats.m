@@ -55,6 +55,7 @@ title("Cumulative Cases by Date, Minimum Population " +...
 xlabel("Date");
 ylabel("Cumulative Confirmed Cases");
 grid on;
+disp("Now is your chance to resize the plot...");pause();
 saveas(conf_case_fig, PLOT_DIR_NAME + "ConfCases.png");
 
 conf_death_fig = figure();
@@ -81,6 +82,7 @@ title("Cumulative Deaths by Date, Minimum Population " +...
 xlabel("Date");
 ylabel("Cumulative Confirmed Deaths");
 grid on;
+disp("Now is your chance to resize the plot...");pause();
 saveas(conf_death_fig, PLOT_DIR_NAME + "ConfDeaths.png");
 
 since_thresh_fig = figure();
@@ -114,6 +116,7 @@ title("Cumulative Cases After Reaching " +...
 xlabel("Days Since " + num2str(MIN_INF_THRESH) + " Cases");
 ylabel("Cumulative Confirmed Cases");
 grid on;
+disp("Now is your chance to resize the plot...");pause();
 saveas(since_thresh_fig, PLOT_DIR_NAME + "SinceThresh.png");
 
 for fit_index = 1:length(CountriesToTrack)
