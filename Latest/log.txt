@@ -1,833 +1,847 @@
 COVID-19 Predictions for Afghanistan
-R-Squared          : 9.880613e-01
-Predicted deaths   : 1.093623e+03
-As portion of pop. : 2.942029e-05
-Day of most deaths : 23-Jun-2020 20:39:00
-Peak death rate    : 1.332536e+01	deaths per day
+R-Squared          : 9.902650e-01
+Predicted deaths   : 1.280455e+06
+As portion of pop. : 3.444640e-02
+Day of most deaths : 29-Dec-2020 18:40:00
+Peak death rate    : 1.280535e+04	deaths per day
 
 COVID-19 Predictions for Albania
-R-Squared          : 6.576872e-01
-Predicted deaths   : 6.742210e+01
-As portion of pop. : 2.352172e-05
-Day of most deaths : 08-Jun-2020 02:56:50
-Peak death rate    : 9.296213e-02	deaths per day
+R-Squared          : 7.711392e-01
+Predicted deaths   : 6.448933e+01
+As portion of pop. : 2.249856e-05
+Day of most deaths : 26-May-2020 23:28:47
+Peak death rate    : 1.629610e-01	deaths per day
 
 COVID-19 Predictions for Algeria
-R-Squared          : 9.614156e-01
-Predicted deaths   : 8.132393e+02
-As portion of pop. : 1.925810e-05
-Day of most deaths : 28-Apr-2020 05:48:50
-Peak death rate    : 8.639937e+00	deaths per day
+R-Squared          : 9.628978e-01
+Predicted deaths   : 7.670719e+02
+As portion of pop. : 1.816482e-05
+Day of most deaths : 25-Apr-2020 05:30:54
+Peak death rate    : 9.314956e+00	deaths per day
 
 COVID-19 Predictions for Argentina
-R-Squared          : 9.938938e-01
-Predicted deaths   : 1.016314e+03
-As portion of pop. : 2.284135e-05
-Day of most deaths : 28-May-2020 04:58:08
-Peak death rate    : 1.275289e+01	deaths per day
+R-Squared          : 9.936985e-01
+Predicted deaths   : 2.111959e+03
+As portion of pop. : 4.746561e-05
+Day of most deaths : 26-Jun-2020 23:01:48
+Peak death rate    : 2.070615e+01	deaths per day
 
 COVID-19 Predictions for Armenia
-R-Squared          : 9.831510e-01
-Predicted deaths   : 1.719688e+07
-As portion of pop. : 5.825943e+00
-Day of most deaths : 22-Jan-2021 03:23:38
-Peak death rate    : 2.149674e+05	deaths per day
+R-Squared          : 9.900457e-01
+Predicted deaths   : 7.485085e+06
+As portion of pop. : 2.535790e+00
+Day of most deaths : 05-Jan-2021 06:32:43
+Peak death rate    : 9.358321e+04	deaths per day
 
 COVID-19 Predictions for Australia
-R-Squared          : 9.929212e-01
-Predicted deaths   : 1.013785e+02
-As portion of pop. : 4.056377e-06
-Day of most deaths : 11-Apr-2020 18:21:18
-Peak death rate    : 2.844431e+00	deaths per day
+R-Squared          : 9.932022e-01
+Predicted deaths   : 1.014923e+02
+As portion of pop. : 4.060931e-06
+Day of most deaths : 11-Apr-2020 19:05:47
+Peak death rate    : 2.839536e+00	deaths per day
 
 COVID-19 Predictions for Austria
-R-Squared          : 9.949349e-01
-Predicted deaths   : 6.493589e+02
-As portion of pop. : 7.339846e-05
-Day of most deaths : 12-Apr-2020 18:20:23
-Peak death rate    : 2.000288e+01	deaths per day
+R-Squared          : 9.946230e-01
+Predicted deaths   : 6.533987e+02
+As portion of pop. : 7.385509e-05
+Day of most deaths : 12-Apr-2020 22:13:48
+Peak death rate    : 1.982400e+01	deaths per day
 
 COVID-19 Predictions for Azerbaijan
-R-Squared          : 9.835299e-01
-Predicted deaths   : 1.126762e+03
-As portion of pop. : 1.133297e-04
-Day of most deaths : 09-Aug-2020 04:36:21
-Peak death rate    : 1.120724e+01	deaths per day
+R-Squared          : 9.883669e-01
+Predicted deaths   : 2.178579e+03
+As portion of pop. : 2.191214e-04
+Day of most deaths : 25-Aug-2020 18:10:54
+Peak death rate    : 2.178354e+01	deaths per day
 
 COVID-19 Predictions for Bahrain
-R-Squared          : 9.176346e-01
-Predicted deaths   : 1.091831e+04
-As portion of pop. : 6.956826e-03
-Day of most deaths : 30-Dec-2020 05:20:00
-Peak death rate    : 8.192147e+01	deaths per day
+R-Squared          : 9.132128e-01
+Predicted deaths   : 1.861367e+05
+As portion of pop. : 1.186008e-01
+Day of most deaths : 14-Jan-2021 23:30:55
+Peak death rate    : 1.860200e+03	deaths per day
 
 COVID-19 Predictions for Bangladesh
-R-Squared          : 9.973117e-01
-Predicted deaths   : 5.579308e+03
-As portion of pop. : 3.457762e-05
-Day of most deaths : 11-Jul-2020 16:14:32
-Peak death rate    : 6.962907e+01	deaths per day
+R-Squared          : 9.982081e-01
+Predicted deaths   : 5.310343e+03
+As portion of pop. : 3.291072e-05
+Day of most deaths : 10-Jul-2020 06:18:10
+Peak death rate    : 6.659037e+01	deaths per day
 
 COVID-19 Predictions for Belarus
-R-Squared          : 9.972680e-01
-Predicted deaths   : 3.273399e+02
-As portion of pop. : 3.450991e-05
-Day of most deaths : 17-May-2020 09:50:59
-Peak death rate    : 5.337853e+00	deaths per day
+R-Squared          : 9.965519e-01
+Predicted deaths   : 3.497027e+02
+As portion of pop. : 3.686753e-05
+Day of most deaths : 19-May-2020 15:33:14
+Peak death rate    : 5.470888e+00	deaths per day
 
 COVID-19 Predictions for Belgium
-R-Squared          : 9.954656e-01
-Predicted deaths   : 9.287943e+03
-As portion of pop. : 8.131577e-04
-Day of most deaths : 17-Apr-2020 14:42:51
-Peak death rate    : 2.985035e+02	deaths per day
+R-Squared          : 9.945919e-01
+Predicted deaths   : 9.545525e+03
+As portion of pop. : 8.357090e-04
+Day of most deaths : 18-Apr-2020 08:07:29
+Peak death rate    : 2.859423e+02	deaths per day
 
 COVID-19 Predictions for Bolivia
-R-Squared          : 9.967256e-01
-Predicted deaths   : 1.234730e+03
-As portion of pop. : 1.087567e-04
-Day of most deaths : 16-Jun-2020 14:59:57
-Peak death rate    : 1.905134e+01	deaths per day
+R-Squared          : 9.979271e-01
+Predicted deaths   : 1.549108e+03
+As portion of pop. : 1.364475e-04
+Day of most deaths : 22-Jun-2020 18:10:54
+Peak death rate    : 2.264481e+01	deaths per day
 
 COVID-19 Predictions for Bosnia_and_Herzegovina
-R-Squared          : 9.875707e-01
-Predicted deaths   : 1.783506e+02
-As portion of pop. : 5.365657e-05
-Day of most deaths : 06-May-2020 01:45:05
-Peak death rate    : 3.194990e+00	deaths per day
+R-Squared          : 9.884984e-01
+Predicted deaths   : 1.741003e+02
+As portion of pop. : 5.237786e-05
+Day of most deaths : 05-May-2020 06:27:14
+Peak death rate    : 3.235571e+00	deaths per day
 
 COVID-19 Predictions for Brazil
-R-Squared          : 9.991698e-01
-Predicted deaths   : 4.846288e+04
-As portion of pop. : 2.313602e-04
-Day of most deaths : 26-May-2020 04:31:19
-Peak death rate    : 9.908313e+02	deaths per day
+R-Squared          : 9.992984e-01
+Predicted deaths   : 5.467878e+04
+As portion of pop. : 2.610348e-04
+Day of most deaths : 29-May-2020 11:13:16
+Peak death rate    : 1.040170e+03	deaths per day
 
 COVID-19 Predictions for Bulgaria
-R-Squared          : 9.950746e-01
-Predicted deaths   : 2.108816e+02
-As portion of pop. : 3.002208e-05
-Day of most deaths : 16-May-2020 12:23:08
-Peak death rate    : 2.641536e+00	deaths per day
+R-Squared          : 9.944896e-01
+Predicted deaths   : 2.468269e+02
+As portion of pop. : 3.513943e-05
+Day of most deaths : 24-May-2020 02:06:19
+Peak death rate    : 2.607746e+00	deaths per day
 
 COVID-19 Predictions for Cameroon
-R-Squared          : 9.833494e-01
-Predicted deaths   : 2.283083e+02
-As portion of pop. : 9.054019e-06
-Day of most deaths : 12-May-2020 00:17:44
-Peak death rate    : 4.606992e+00	deaths per day
+R-Squared          : 9.622077e-01
+Predicted deaths   : 3.100605e+02
+As portion of pop. : 1.229607e-05
+Day of most deaths : 22-May-2020 20:29:14
+Peak death rate    : 4.447189e+00	deaths per day
 
 COVID-19 Predictions for Canada
-R-Squared          : 9.962902e-01
-Predicted deaths   : 7.896998e+03
-As portion of pop. : 2.130934e-04
-Day of most deaths : 06-May-2020 00:30:38
-Peak death rate    : 1.788727e+02	deaths per day
+R-Squared          : 9.961927e-01
+Predicted deaths   : 8.146005e+03
+As portion of pop. : 2.198126e-04
+Day of most deaths : 07-May-2020 00:03:38
+Peak death rate    : 1.765120e+02	deaths per day
 
 COVID-19 Predictions for Central_African_Republic
-R-Squared          : 7.675523e-01
-Predicted deaths   : 4.964545e+00
-As portion of pop. : 1.063897e-06
-Day of most deaths : 31-May-2020 18:21:51
-Peak death rate    : 6.062835e-01	deaths per day
+R-Squared          : 8.933143e-01
+Predicted deaths   : 1.185207e+01
+As portion of pop. : 2.539887e-06
+Day of most deaths : 10-Jun-2020 18:14:29
+Peak death rate    : 3.313387e-01	deaths per day
 
 COVID-19 Predictions for Chile
-R-Squared          : 9.746593e-01
-Predicted deaths   : 1.809238e+08
-As portion of pop. : 9.660009e+00
-Day of most deaths : 18-Nov-2020 23:30:54
-Peak death rate    : 3.165421e+06	deaths per day
+R-Squared          : 9.868884e-01
+Predicted deaths   : 1.815115e+07
+As portion of pop. : 9.691383e-01
+Day of most deaths : 16-Oct-2020 13:05:27
+Peak death rate    : 3.176862e+05	deaths per day
 
 COVID-19 Predictions for China
-R-Squared          : 9.213503e-01
-Predicted deaths   : 4.637969e+03
-As portion of pop. : 3.330128e-06
-Day of most deaths : 01-Mar-2020 06:36:32
-Peak death rate    : 5.791735e+01	deaths per day
+R-Squared          : 9.237511e-01
+Predicted deaths   : 4.637992e+03
+As portion of pop. : 3.330144e-06
+Day of most deaths : 01-Mar-2020 06:30:24
+Peak death rate    : 5.793084e+01	deaths per day
 
 COVID-19 Predictions for Colombia
-R-Squared          : 9.919458e-01
-Predicted deaths   : 1.404285e+04
-As portion of pop. : 2.828443e-04
-Day of most deaths : 05-Aug-2020 10:54:32
-Peak death rate    : 1.406303e+02	deaths per day
+R-Squared          : 9.946765e-01
+Predicted deaths   : 3.051841e+04
+As portion of pop. : 6.146871e-04
+Day of most deaths : 25-Aug-2020 18:10:54
+Peak death rate    : 3.051040e+02	deaths per day
 
 COVID-19 Predictions for Costa_Rica
-R-Squared          : 2.141851e-01
-Predicted deaths   : 1.983746e+01
-As portion of pop. : 3.967935e-06
-Day of most deaths : 30-May-2020 04:46:50
-Peak death rate    : 3.295791e-02	deaths per day
+R-Squared          : 6.882796e-01
+Predicted deaths   : 3.839121e+01
+As portion of pop. : 7.679100e-06
+Day of most deaths : 24-Jul-2020 15:59:59
+Peak death rate    : 1.922000e-01	deaths per day
 
 COVID-19 Predictions for Cote_dIvoire
-R-Squared          : 9.856895e-01
-Predicted deaths   : 4.632771e+01
-As portion of pop. : 1.847991e-06
-Day of most deaths : 14-May-2020 00:27:16
-Peak death rate    : 6.089672e-01	deaths per day
+R-Squared          : 9.772148e-01
+Predicted deaths   : 6.348027e+01
+As portion of pop. : 2.532199e-06
+Day of most deaths : 28-May-2020 12:47:23
+Peak death rate    : 6.412835e-01	deaths per day
 
 COVID-19 Predictions for Croatia
-R-Squared          : 9.966807e-01
-Predicted deaths   : 1.044424e+02
-As portion of pop. : 2.553979e-05
-Day of most deaths : 24-Apr-2020 04:02:28
-Peak death rate    : 2.711543e+00	deaths per day
+R-Squared          : 9.965598e-01
+Predicted deaths   : 1.051723e+02
+As portion of pop. : 2.571828e-05
+Day of most deaths : 24-Apr-2020 08:35:52
+Peak death rate    : 2.689072e+00	deaths per day
 
 COVID-19 Predictions for Cuba
-R-Squared          : 9.958439e-01
-Predicted deaths   : 8.289642e+01
-As portion of pop. : 7.311290e-06
-Day of most deaths : 22-Apr-2020 21:04:07
-Peak death rate    : 2.691835e+00	deaths per day
+R-Squared          : 9.956814e-01
+Predicted deaths   : 8.313295e+01
+As portion of pop. : 7.332152e-06
+Day of most deaths : 22-Apr-2020 21:36:36
+Peak death rate    : 2.664831e+00	deaths per day
 
 COVID-19 Predictions for Czechia
-R-Squared          : 9.852254e-01
-Predicted deaths   : 3.177933e+02
-As portion of pop. : 2.990800e-05
-Day of most deaths : 18-Apr-2020 00:33:46
-Peak death rate    : 8.013653e+00	deaths per day
+R-Squared          : 9.856351e-01
+Predicted deaths   : 3.206201e+02
+As portion of pop. : 3.017403e-05
+Day of most deaths : 18-Apr-2020 07:19:47
+Peak death rate    : 7.917929e+00	deaths per day
 
 COVID-19 Predictions for Democratic_Republic_of_the_Congo
-R-Squared          : 9.321153e-01
-Predicted deaths   : 1.260470e+02
-As portion of pop. : 1.499344e-06
-Day of most deaths : 23-May-2020 09:29:06
-Peak death rate    : 1.282766e+00	deaths per day
+R-Squared          : 9.421224e-01
+Predicted deaths   : 2.687486e+02
+As portion of pop. : 3.196797e-06
+Day of most deaths : 03-Jul-2020 00:43:38
+Peak death rate    : 1.978717e+00	deaths per day
 
 COVID-19 Predictions for Denmark
-R-Squared          : 9.928466e-01
-Predicted deaths   : 5.716195e+02
-As portion of pop. : 9.859850e-05
-Day of most deaths : 15-Apr-2020 13:45:46
-Peak death rate    : 1.440749e+01	deaths per day
+R-Squared          : 9.926441e-01
+Predicted deaths   : 5.772735e+02
+As portion of pop. : 9.957376e-05
+Day of most deaths : 15-Apr-2020 21:12:22
+Peak death rate    : 1.422510e+01	deaths per day
 
 COVID-19 Predictions for Djibouti
-R-Squared          : 9.819569e-01
-Predicted deaths   : 3.814062e+01
-As portion of pop. : 3.977455e-05
-Day of most deaths : 29-May-2020 21:48:46
-Peak death rate    : 1.333245e+00	deaths per day
+R-Squared          : 9.853247e-01
+Predicted deaths   : 5.438520e+01
+As portion of pop. : 5.671505e-05
+Day of most deaths : 05-Jun-2020 06:32:08
+Peak death rate    : 1.484897e+00	deaths per day
 
 COVID-19 Predictions for Dominican_Republic
-R-Squared          : 9.906739e-01
-Predicted deaths   : 5.439170e+02
-As portion of pop. : 5.118176e-05
-Day of most deaths : 27-Apr-2020 00:41:08
-Peak death rate    : 9.369156e+00	deaths per day
+R-Squared          : 9.879866e-01
+Predicted deaths   : 5.902650e+02
+As portion of pop. : 5.554303e-05
+Day of most deaths : 30-Apr-2020 08:40:43
+Peak death rate    : 8.818591e+00	deaths per day
 
 COVID-19 Predictions for Ecuador
-R-Squared          : 9.956591e-01
-Predicted deaths   : 3.690016e+03
-As portion of pop. : 2.159880e-04
-Day of most deaths : 09-May-2020 02:29:30
-Peak death rate    : 9.976382e+01	deaths per day
+R-Squared          : 9.957701e-01
+Predicted deaths   : 3.895991e+03
+As portion of pop. : 2.280444e-04
+Day of most deaths : 10-May-2020 13:34:35
+Peak death rate    : 9.577327e+01	deaths per day
 
 COVID-19 Predictions for Egypt
-R-Squared          : 9.912271e-01
-Predicted deaths   : 4.178243e+03
-As portion of pop. : 4.245164e-05
-Day of most deaths : 30-Jun-2020 08:29:05
-Peak death rate    : 4.166369e+01	deaths per day
+R-Squared          : 9.934430e-01
+Predicted deaths   : 5.038846e+03
+As portion of pop. : 5.119551e-05
+Day of most deaths : 06-Jul-2020 22:03:38
+Peak death rate    : 4.923721e+01	deaths per day
 
 COVID-19 Predictions for El_Salvador
-R-Squared          : 9.851178e-01
-Predicted deaths   : 1.353426e+02
-As portion of pop. : 2.107896e-05
-Day of most deaths : 14-Jun-2020 19:07:55
-Peak death rate    : 1.682252e+00	deaths per day
+R-Squared          : 9.869429e-01
+Predicted deaths   : 6.002368e+02
+As portion of pop. : 9.348400e-05
+Day of most deaths : 02-Aug-2020 16:00:00
+Peak death rate    : 6.015348e+00	deaths per day
 
 COVID-19 Predictions for Equatorial_Guinea
 R-Squared          : -Inf
-Predicted deaths   : 2.400048e+01
-As portion of pop. : 1.833534e-05
-Day of most deaths : 02-Jun-2020 10:40:35
-Peak death rate    : 6.121533e-06	deaths per day
+Predicted deaths   : 2.399992e+01
+As portion of pop. : 1.833491e-05
+Day of most deaths : 05-Jun-2020 05:20:22
+Peak death rate    : -3.414000e-06	deaths per day
 
 COVID-19 Predictions for Estonia
-R-Squared          : 9.906068e-01
-Predicted deaths   : 6.836173e+01
-As portion of pop. : 5.175453e-05
-Day of most deaths : 17-Apr-2020 10:23:31
-Peak death rate    : 1.459693e+00	deaths per day
+R-Squared          : 9.910148e-01
+Predicted deaths   : 6.871097e+01
+As portion of pop. : 5.201893e-05
+Day of most deaths : 17-Apr-2020 13:43:46
+Peak death rate    : 1.445397e+00	deaths per day
 
 COVID-19 Predictions for Ethiopia
-R-Squared          : 9.719968e-01
-Predicted deaths   : 1.451161e+02
-As portion of pop. : 1.328604e-06
-Day of most deaths : 19-Jun-2020 04:36:20
-Peak death rate    : 5.077746e+00	deaths per day
+R-Squared          : 9.915213e-01
+Predicted deaths   : 5.834127e+02
+As portion of pop. : 5.341406e-06
+Day of most deaths : 01-Jul-2020 19:38:11
+Peak death rate    : 1.900357e+01	deaths per day
 
 COVID-19 Predictions for Finland
-R-Squared          : 9.957298e-01
-Predicted deaths   : 3.188956e+02
-As portion of pop. : 5.779135e-05
-Day of most deaths : 25-Apr-2020 09:34:37
-Peak death rate    : 9.608344e+00	deaths per day
+R-Squared          : 9.958637e-01
+Predicted deaths   : 3.206592e+02
+As portion of pop. : 5.811096e-05
+Day of most deaths : 25-Apr-2020 12:57:18
+Peak death rate    : 9.542073e+00	deaths per day
 
 COVID-19 Predictions for France
-R-Squared          : 9.940162e-01
-Predicted deaths   : 2.881210e+04
-As portion of pop. : 4.301133e-04
-Day of most deaths : 14-Apr-2020 06:51:29
-Peak death rate    : 8.625864e+02	deaths per day
+R-Squared          : 9.924783e-01
+Predicted deaths   : 2.935059e+04
+As portion of pop. : 4.381519e-04
+Day of most deaths : 14-Apr-2020 19:55:11
+Peak death rate    : 8.347217e+02	deaths per day
 
 COVID-19 Predictions for Gabon
-R-Squared          : 9.528792e-01
-Predicted deaths   : 9.523245e+01
-As portion of pop. : 4.493633e-05
-Day of most deaths : 08-Jul-2020 21:49:05
-Peak death rate    : 9.585258e-01	deaths per day
+R-Squared          : 9.638653e-01
+Predicted deaths   : 3.498284e+01
+As portion of pop. : 1.650698e-05
+Day of most deaths : 01-Jun-2020 15:43:01
+Peak death rate    : 5.097694e-01	deaths per day
 
 COVID-19 Predictions for Germany
-R-Squared          : 9.967610e-01
-Predicted deaths   : 8.470582e+03
-As portion of pop. : 1.021439e-04
-Day of most deaths : 19-Apr-2020 22:54:16
-Peak death rate    : 2.306176e+02	deaths per day
+R-Squared          : 9.962515e-01
+Predicted deaths   : 8.679123e+03
+As portion of pop. : 1.046586e-04
+Day of most deaths : 20-Apr-2020 16:31:21
+Peak death rate    : 2.234799e+02	deaths per day
 
 COVID-19 Predictions for Ghana
-R-Squared          : 9.737235e-01
-Predicted deaths   : 5.919849e+01
-As portion of pop. : 1.988721e-06
-Day of most deaths : 21-May-2020 05:53:01
-Peak death rate    : 8.040055e-01	deaths per day
+R-Squared          : 9.779598e-01
+Predicted deaths   : 7.383738e+01
+As portion of pop. : 2.480502e-06
+Day of most deaths : 30-May-2020 07:03:01
+Peak death rate    : 8.686682e-01	deaths per day
 
 COVID-19 Predictions for Greece
-R-Squared          : 9.875611e-01
-Predicted deaths   : 1.802143e+02
-As portion of pop. : 1.679902e-05
-Day of most deaths : 13-Apr-2020 00:28:53
-Peak death rate    : 3.099147e+00	deaths per day
+R-Squared          : 9.878366e-01
+Predicted deaths   : 1.823893e+02
+As portion of pop. : 1.700177e-05
+Day of most deaths : 13-Apr-2020 10:33:58
+Peak death rate    : 3.036530e+00	deaths per day
 
 COVID-19 Predictions for Guatemala
-R-Squared          : 9.820076e-01
-Predicted deaths   : 2.572722e+07
-As portion of pop. : 1.491622e+00
-Day of most deaths : 01-Oct-2020 22:32:43
-Peak death rate    : 6.432935e+05	deaths per day
+R-Squared          : 9.863884e-01
+Predicted deaths   : 2.197388e+03
+As portion of pop. : 1.274010e-04
+Day of most deaths : 29-Jun-2020 14:32:27
+Peak death rate    : 5.481682e+01	deaths per day
 
 COVID-19 Predictions for Guinea
-R-Squared          : 9.811389e-01
-Predicted deaths   : 2.600412e+01
-As portion of pop. : 2.094688e-06
-Day of most deaths : 12-May-2020 09:47:56
-Peak death rate    : 5.765655e-01	deaths per day
+R-Squared          : 9.822929e-01
+Predicted deaths   : 2.563692e+01
+As portion of pop. : 2.065109e-06
+Day of most deaths : 12-May-2020 00:45:07
+Peak death rate    : 5.801792e-01	deaths per day
 
 COVID-19 Predictions for Guinea_Bissau
-R-Squared          : 8.822626e-01
-Predicted deaths   : 7.713688e+01
-As portion of pop. : 4.115483e-05
-Day of most deaths : 13-Jul-2020 02:10:54
-Peak death rate    : 9.645774e-01	deaths per day
+R-Squared          : 9.224249e-01
+Predicted deaths   : 6.198019e+02
+As portion of pop. : 3.306829e-04
+Day of most deaths : 16-Sep-2020 11:52:43
+Peak death rate    : 6.190813e+00	deaths per day
 
 COVID-19 Predictions for Haiti
-R-Squared          : 9.630582e-01
-Predicted deaths   : 6.058713e+01
-As portion of pop. : 5.446927e-06
-Day of most deaths : 26-May-2020 05:35:52
-Peak death rate    : 2.291433e+00	deaths per day
+R-Squared          : 9.635214e-01
+Predicted deaths   : 8.393226e+02
+As portion of pop. : 7.545710e-05
+Day of most deaths : 13-Aug-2020 19:09:05
+Peak death rate    : 8.412006e+00	deaths per day
 
 COVID-19 Predictions for Honduras
-R-Squared          : 9.952491e-01
-Predicted deaths   : 4.314959e+02
-As portion of pop. : 4.500599e-05
-Day of most deaths : 31-May-2020 23:01:43
-Peak death rate    : 5.517562e+00	deaths per day
+R-Squared          : 9.949286e-01
+Predicted deaths   : 1.448176e+04
+As portion of pop. : 1.510480e-03
+Day of most deaths : 19-Oct-2020 09:27:16
+Peak death rate    : 1.085806e+02	deaths per day
 
 COVID-19 Predictions for Hungary
-R-Squared          : 9.956278e-01
-Predicted deaths   : 5.500598e+02
-As portion of pop. : 5.630791e-05
-Day of most deaths : 27-Apr-2020 09:01:10
-Peak death rate    : 1.173518e+01	deaths per day
+R-Squared          : 9.954082e-01
+Predicted deaths   : 5.571288e+02
+As portion of pop. : 5.703154e-05
+Day of most deaths : 27-Apr-2020 18:27:30
+Peak death rate    : 1.156086e+01	deaths per day
 
 COVID-19 Predictions for Iceland
-R-Squared          : 9.820114e-01
-Predicted deaths   : 1.003318e+01
-As portion of pop. : 2.837648e-05
-Day of most deaths : 06-Apr-2020 20:04:09
-Peak death rate    : 4.809178e-01	deaths per day
+R-Squared          : 9.823286e-01
+Predicted deaths   : 1.002982e+01
+As portion of pop. : 2.836697e-05
+Day of most deaths : 06-Apr-2020 19:57:32
+Peak death rate    : 4.812416e-01	deaths per day
 
 COVID-19 Predictions for India
-R-Squared          : 9.971894e-01
-Predicted deaths   : 1.748062e+04
-As portion of pop. : 1.292355e-05
-Day of most deaths : 14-Jun-2020 05:02:18
-Peak death rate    : 2.593390e+02	deaths per day
+R-Squared          : 9.974341e-01
+Predicted deaths   : 1.912790e+04
+As portion of pop. : 1.414140e-05
+Day of most deaths : 16-Jun-2020 04:15:10
+Peak death rate    : 2.835675e+02	deaths per day
 
 COVID-19 Predictions for Indonesia
-R-Squared          : 9.853509e-01
-Predicted deaths   : 3.061976e+03
-As portion of pop. : 1.143965e-05
-Day of most deaths : 29-May-2020 07:58:13
-Peak death rate    : 3.178054e+01	deaths per day
+R-Squared          : 9.877189e-01
+Predicted deaths   : 3.397940e+03
+As portion of pop. : 1.269482e-05
+Day of most deaths : 03-Jun-2020 05:23:44
+Peak death rate    : 3.369088e+01	deaths per day
 
 COVID-19 Predictions for Iran
-R-Squared          : 9.820988e-01
-Predicted deaths   : 8.424968e+03
-As portion of pop. : 1.029944e-04
-Day of most deaths : 14-Apr-2020 11:43:49
-Peak death rate    : 1.238017e+02	deaths per day
+R-Squared          : 9.782839e-01
+Predicted deaths   : 8.836993e+03
+As portion of pop. : 1.080313e-04
+Day of most deaths : 16-Apr-2020 23:48:52
+Peak death rate    : 1.182534e+02	deaths per day
 
 COVID-19 Predictions for Iraq
-R-Squared          : 8.850518e-01
-Predicted deaths   : 5.958051e+05
-As portion of pop. : 1.550219e-02
-Day of most deaths : 17-Feb-2021 18:25:26
-Peak death rate    : 4.474350e+03	deaths per day
+R-Squared          : 8.985849e-01
+Predicted deaths   : 3.555212e+04
+As portion of pop. : 9.250270e-04
+Day of most deaths : 07-Sep-2020 08:00:00
+Peak death rate    : 4.452218e+02	deaths per day
 
 COVID-19 Predictions for Ireland
-R-Squared          : 9.975339e-01
-Predicted deaths   : 1.643050e+03
-As portion of pop. : 3.385285e-04
-Day of most deaths : 23-Apr-2020 12:22:34
-Peak death rate    : 5.287134e+01	deaths per day
+R-Squared          : 9.972381e-01
+Predicted deaths   : 1.657363e+03
+As portion of pop. : 3.414775e-04
+Day of most deaths : 23-Apr-2020 17:18:55
+Peak death rate    : 5.226784e+01	deaths per day
 
 COVID-19 Predictions for Israel
-R-Squared          : 9.906320e-01
-Predicted deaths   : 2.838935e+02
-As portion of pop. : 3.195631e-05
-Day of most deaths : 18-Apr-2020 10:06:47
-Peak death rate    : 8.006249e+00	deaths per day
+R-Squared          : 9.900049e-01
+Predicted deaths   : 2.874850e+02
+As portion of pop. : 3.236059e-05
+Day of most deaths : 18-Apr-2020 18:52:47
+Peak death rate    : 7.860736e+00	deaths per day
 
 COVID-19 Predictions for Italy
-R-Squared          : 9.919385e-01
-Predicted deaths   : 3.404300e+04
-As portion of pop. : 5.633340e-04
-Day of most deaths : 09-Apr-2020 23:28:27
-Peak death rate    : 7.090058e+02	deaths per day
+R-Squared          : 9.915508e-01
+Predicted deaths   : 3.434500e+04
+As portion of pop. : 5.683315e-04
+Day of most deaths : 10-Apr-2020 07:50:00
+Peak death rate    : 6.997654e+02	deaths per day
 
 COVID-19 Predictions for Japan
-R-Squared          : 9.972043e-01
-Predicted deaths   : 9.460199e+02
-As portion of pop. : 7.476699e-06
-Day of most deaths : 03-May-2020 07:19:35
-Peak death rate    : 2.222097e+01	deaths per day
+R-Squared          : 9.974853e-01
+Predicted deaths   : 9.408556e+02
+As portion of pop. : 7.435883e-06
+Day of most deaths : 03-May-2020 03:17:16
+Peak death rate    : 2.233690e+01	deaths per day
 
 COVID-19 Predictions for Kazakhstan
-R-Squared          : 9.271340e-01
-Predicted deaths   : 1.254473e+03
-As portion of pop. : 6.863856e-05
-Day of most deaths : 13-Nov-2020 00:43:38
-Peak death rate    : 6.275969e+00	deaths per day
+R-Squared          : 9.062086e-01
+Predicted deaths   : 1.952230e+02
+As portion of pop. : 1.068164e-05
+Day of most deaths : 07-Jul-2020 13:05:48
+Peak death rate    : 1.475127e+00	deaths per day
 
 COVID-19 Predictions for Kenya
-R-Squared          : 9.764592e-01
-Predicted deaths   : 3.990693e+02
-As portion of pop. : 7.765050e-06
-Day of most deaths : 11-Jul-2020 12:21:49
-Peak death rate    : 3.975180e+00	deaths per day
+R-Squared          : 9.873873e-01
+Predicted deaths   : 3.701628e+02
+As portion of pop. : 7.202591e-06
+Day of most deaths : 09-Jul-2020 05:49:05
+Peak death rate    : 3.688812e+00	deaths per day
 
 COVID-19 Predictions for Kosovo
-R-Squared          : 6.480960e-01
-Predicted deaths   : 6.101588e+01
-As portion of pop. : 3.306556e-05
-Day of most deaths : 08-Jun-2020 13:46:25
-Peak death rate    : 7.528471e-02	deaths per day
+R-Squared          : 7.873704e-01
+Predicted deaths   : 5.822839e+01
+As portion of pop. : 3.155497e-05
+Day of most deaths : 22-May-2020 23:25:19
+Peak death rate    : 9.859719e-02	deaths per day
 
 COVID-19 Predictions for Kuwait
-R-Squared          : 9.981955e-01
-Predicted deaths   : 3.444612e+02
-As portion of pop. : 8.325731e-05
-Day of most deaths : 27-May-2020 00:28:46
-Peak death rate    : 8.114854e+00	deaths per day
+R-Squared          : 9.986865e-01
+Predicted deaths   : 3.385880e+02
+As portion of pop. : 8.183773e-05
+Day of most deaths : 26-May-2020 14:11:47
+Peak death rate    : 8.100525e+00	deaths per day
 
 COVID-19 Predictions for Kyrgyzstan
-R-Squared          : 8.862727e-01
-Predicted deaths   : 1.487816e+02
-As portion of pop. : 2.355704e-05
-Day of most deaths : 04-Aug-2020 02:39:59
-Peak death rate    : 1.118492e+00	deaths per day
+R-Squared          : 9.373257e-01
+Predicted deaths   : 1.949618e+02
+As portion of pop. : 3.086891e-05
+Day of most deaths : 14-Aug-2020 08:43:38
+Peak death rate    : 1.458485e+00	deaths per day
 
 COVID-19 Predictions for Latvia
-R-Squared          : 9.101212e-01
-Predicted deaths   : 5.238279e+01
-As portion of pop. : 2.719006e-05
-Day of most deaths : 10-Jun-2020 03:38:51
-Peak death rate    : 2.656294e-01	deaths per day
+R-Squared          : 9.388445e-01
+Predicted deaths   : 5.607996e+01
+As portion of pop. : 2.910913e-05
+Day of most deaths : 16-Jun-2020 19:05:30
+Peak death rate    : 2.727116e-01	deaths per day
 
 COVID-19 Predictions for Lebanon
-R-Squared          : 7.697489e-01
-Predicted deaths   : 8.544108e+01
-As portion of pop. : 1.247511e-05
-Day of most deaths : 16-Aug-2020 08:43:38
-Peak death rate    : 2.127162e-01	deaths per day
+R-Squared          : 8.845671e-01
+Predicted deaths   : 5.730011e+01
+As portion of pop. : 8.366293e-06
+Day of most deaths : 05-Jun-2020 12:21:51
+Peak death rate    : 2.760158e-01	deaths per day
 
 COVID-19 Predictions for Lithuania
-R-Squared          : 9.810497e-01
-Predicted deaths   : 9.043718e+01
-As portion of pop. : 3.242019e-05
-Day of most deaths : 03-May-2020 11:57:42
-Peak death rate    : 8.877591e-01	deaths per day
+R-Squared          : 9.789995e-01
+Predicted deaths   : 1.058555e+02
+As portion of pop. : 3.794739e-05
+Day of most deaths : 13-May-2020 10:48:29
+Peak death rate    : 8.322664e-01	deaths per day
 
 COVID-19 Predictions for Luxembourg
-R-Squared          : 9.896911e-01
-Predicted deaths   : 1.090240e+02
-As portion of pop. : 1.793960e-04
-Day of most deaths : 12-Apr-2020 09:02:39
-Peak death rate    : 2.763323e+00	deaths per day
+R-Squared          : 9.901230e-01
+Predicted deaths   : 1.092496e+02
+As portion of pop. : 1.797672e-04
+Day of most deaths : 12-Apr-2020 10:30:45
+Peak death rate    : 2.753157e+00	deaths per day
 
 COVID-19 Predictions for Madagascar
-R-Squared          : 9.999940e-01
-Predicted deaths   : 9.000865e+00
-As portion of pop. : 3.427286e-07
-Day of most deaths : 06-Jun-2020 15:47:05
-Peak death rate    : 1.366421e+01	deaths per day
+R-Squared          : 8.899763e-01
+Predicted deaths   : 1.019867e+01
+As portion of pop. : 3.883377e-07
+Day of most deaths : 03-Jun-2020 14:52:30
+Peak death rate    : 1.017022e+00	deaths per day
 
 COVID-19 Predictions for Malaysia
-R-Squared          : 9.867839e-01
-Predicted deaths   : 1.134896e+02
-As portion of pop. : 3.599577e-06
-Day of most deaths : 07-Apr-2020 04:06:15
-Peak death rate    : 3.085255e+00	deaths per day
+R-Squared          : 9.858955e-01
+Predicted deaths   : 1.144037e+02
+As portion of pop. : 3.628572e-06
+Day of most deaths : 07-Apr-2020 09:30:53
+Peak death rate    : 3.035065e+00	deaths per day
 
 COVID-19 Predictions for Maldives
-R-Squared          : 9.106927e-01
-Predicted deaths   : 7.289302e+01
-As portion of pop. : 1.413488e-04
-Day of most deaths : 01-Aug-2020 00:29:05
-Peak death rate    : 7.279044e-01	deaths per day
+R-Squared          : 9.195945e-01
+Predicted deaths   : 1.611100e+01
+As portion of pop. : 3.124128e-05
+Day of most deaths : 12-Jun-2020 06:12:54
+Peak death rate    : 2.008651e-01	deaths per day
 
 COVID-19 Predictions for Mali
-R-Squared          : 9.761672e-01
-Predicted deaths   : 3.378185e+02
-As portion of pop. : 1.770752e-05
-Day of most deaths : 11-Jul-2020 22:32:43
-Peak death rate    : 2.520909e+00	deaths per day
+R-Squared          : 9.877446e-01
+Predicted deaths   : 3.737566e+02
+As portion of pop. : 1.959129e-05
+Day of most deaths : 16-Jul-2020 07:59:59
+Peak death rate    : 2.790701e+00	deaths per day
+
+COVID-19 Predictions for Mauritania
+R-Squared          : 8.638250e-01
+Predicted deaths   : 5.592424e+02
+As portion of pop. : 1.270047e-04
+Day of most deaths : 04-Jul-2020 05:49:05
+Peak death rate    : 1.259794e+01	deaths per day
 
 COVID-19 Predictions for Mexico
-R-Squared          : 9.976968e-01
-Predicted deaths   : 2.620193e+04
-As portion of pop. : 2.076374e-04
-Day of most deaths : 06-Jun-2020 21:44:47
-Peak death rate    : 4.670771e+02	deaths per day
+R-Squared          : 9.983060e-01
+Predicted deaths   : 2.729332e+04
+As portion of pop. : 2.162862e-04
+Day of most deaths : 07-Jun-2020 18:06:06
+Peak death rate    : 4.851729e+02	deaths per day
 
 COVID-19 Predictions for Moldova
-R-Squared          : 9.948943e-01
-Predicted deaths   : 5.173646e+02
-As portion of pop. : 1.459057e-04
-Day of most deaths : 25-May-2020 19:39:35
-Peak death rate    : 6.855673e+00	deaths per day
+R-Squared          : 9.945566e-01
+Predicted deaths   : 5.754451e+02
+As portion of pop. : 1.622854e-04
+Day of most deaths : 30-May-2020 02:02:29
+Peak death rate    : 7.167144e+00	deaths per day
 
 COVID-19 Predictions for Morocco
-R-Squared          : 9.904739e-01
-Predicted deaths   : 2.069438e+02
-As portion of pop. : 5.743789e-06
-Day of most deaths : 10-Apr-2020 18:46:40
-Peak death rate    : 3.970298e+00	deaths per day
+R-Squared          : 9.897581e-01
+Predicted deaths   : 2.088113e+02
+As portion of pop. : 5.795624e-06
+Day of most deaths : 10-Apr-2020 22:11:26
+Peak death rate    : 3.864670e+00	deaths per day
 
 COVID-19 Predictions for Nepal
-R-Squared          : 9.811216e-01
-Predicted deaths   : 1.937324e+02
-As portion of pop. : 6.897370e-06
-Day of most deaths : 07-Jul-2020 09:27:16
-Peak death rate    : 4.368207e+00	deaths per day
+R-Squared          : 9.833231e-01
+Predicted deaths   : 2.841338e+01
+As portion of pop. : 1.011589e-06
+Day of most deaths : 09-Jun-2020 22:39:11
+Peak death rate    : 8.733764e-01	deaths per day
 
 COVID-19 Predictions for Netherlands
-R-Squared          : 9.952768e-01
-Predicted deaths   : 5.938241e+03
-As portion of pop. : 3.446251e-04
-Day of most deaths : 15-Apr-2020 13:15:47
-Peak death rate    : 1.532085e+02	deaths per day
+R-Squared          : 9.953649e-01
+Predicted deaths   : 5.934692e+03
+As portion of pop. : 3.444191e-04
+Day of most deaths : 15-Apr-2020 12:45:29
+Peak death rate    : 1.534546e+02	deaths per day
 
 COVID-19 Predictions for New_Zealand
-R-Squared          : 9.846940e-01
-Predicted deaths   : 2.143335e+01
-As portion of pop. : 4.387135e-06
-Day of most deaths : 17-Apr-2020 20:40:45
-Peak death rate    : 1.044442e+00	deaths per day
+R-Squared          : 9.844821e-01
+Predicted deaths   : 2.150847e+01
+As portion of pop. : 4.402512e-06
+Day of most deaths : 17-Apr-2020 21:50:59
+Peak death rate    : 1.036268e+00	deaths per day
 
 COVID-19 Predictions for Nicaragua
-R-Squared          : -Inf
-Predicted deaths   : 9.199996e+01
-As portion of pop. : 1.422934e-05
-Day of most deaths : 07-Jun-2020 14:45:47
-Peak death rate    : 1.038198e-06	deaths per day
+R-Squared          : 7.194742e-01
+Predicted deaths   : 1.394450e+02
+As portion of pop. : 2.156751e-05
+Day of most deaths : 29-Jun-2020 01:27:16
+Peak death rate    : 1.044653e+00	deaths per day
 
 COVID-19 Predictions for Nigeria
-R-Squared          : 9.895592e-01
-Predicted deaths   : 4.422743e+02
-As portion of pop. : 2.257945e-06
-Day of most deaths : 23-May-2020 01:04:23
-Peak death rate    : 8.488684e+00	deaths per day
+R-Squared          : 9.911058e-01
+Predicted deaths   : 5.299751e+02
+As portion of pop. : 2.705684e-06
+Day of most deaths : 28-May-2020 13:35:43
+Peak death rate    : 8.894645e+00	deaths per day
 
 COVID-19 Predictions for North_Macedonia
-R-Squared          : 9.833017e-01
-Predicted deaths   : 3.154496e+02
-As portion of pop. : 1.514431e-04
-Day of most deaths : 10-Jun-2020 13:05:28
-Peak death rate    : 2.404864e+00	deaths per day
+R-Squared          : 9.844122e-01
+Predicted deaths   : 7.768183e+03
+As portion of pop. : 3.729400e-03
+Day of most deaths : 20-Dec-2020 07:45:26
+Peak death rate    : 3.879713e+01	deaths per day
 
 COVID-19 Predictions for Norway
-R-Squared          : 9.969421e-01
-Predicted deaths   : 2.342444e+02
-As portion of pop. : 4.407782e-05
-Day of most deaths : 15-Apr-2020 01:48:47
-Peak death rate    : 7.377335e+00	deaths per day
+R-Squared          : 9.967862e-01
+Predicted deaths   : 2.354407e+02
+As portion of pop. : 4.430295e-05
+Day of most deaths : 15-Apr-2020 04:54:40
+Peak death rate    : 7.323689e+00	deaths per day
 
 COVID-19 Predictions for Oman
-R-Squared          : 9.851993e-01
-Predicted deaths   : 5.993271e+02
-As portion of pop. : 1.240976e-04
-Day of most deaths : 10-Jul-2020 13:05:27
-Peak death rate    : 8.926877e+00	deaths per day
+R-Squared          : 9.911328e-01
+Predicted deaths   : 4.198498e+02
+As portion of pop. : 8.693473e-05
+Day of most deaths : 03-Jul-2020 11:23:38
+Peak death rate    : 6.329393e+00	deaths per day
 
 COVID-19 Predictions for Pakistan
-R-Squared          : 9.952597e-01
-Predicted deaths   : 4.530817e+03
-As portion of pop. : 2.135012e-05
-Day of most deaths : 11-Jun-2020 08:51:08
-Peak death rate    : 6.674624e+01	deaths per day
+R-Squared          : 9.960460e-01
+Predicted deaths   : 5.483195e+03
+As portion of pop. : 2.583792e-05
+Day of most deaths : 16-Jun-2020 06:37:52
+Peak death rate    : 7.878052e+01	deaths per day
 
 COVID-19 Predictions for Panama
-R-Squared          : 9.784736e-01
-Predicted deaths   : 4.526487e+02
-As portion of pop. : 1.083702e-04
-Day of most deaths : 09-May-2020 15:42:33
-Peak death rate    : 5.922775e+00	deaths per day
+R-Squared          : 9.782320e-01
+Predicted deaths   : 4.907861e+02
+As portion of pop. : 1.175009e-04
+Day of most deaths : 13-May-2020 04:55:04
+Peak death rate    : 6.029737e+00	deaths per day
 
 COVID-19 Predictions for Paraguay
 R-Squared          : -Inf
-Predicted deaths   : 2.200000e+01
-As portion of pop. : 3.162704e-06
-Day of most deaths : 07-Jun-2020 14:20:42
-Peak death rate    : 3.900220e-07	deaths per day
+Predicted deaths   : 2.199992e+01
+As portion of pop. : 3.162693e-06
+Day of most deaths : 09-Jun-2020 16:00:41
+Peak death rate    : -4.218993e-06	deaths per day
 
 COVID-19 Predictions for Peru
-R-Squared          : 9.984189e-01
-Predicted deaths   : 7.240530e+03
-As portion of pop. : 2.263425e-04
-Day of most deaths : 25-May-2020 06:17:03
-Peak death rate    : 1.387843e+02	deaths per day
+R-Squared          : 9.971679e-01
+Predicted deaths   : 9.480073e+03
+As portion of pop. : 2.963518e-04
+Day of most deaths : 02-Jun-2020 12:10:01
+Peak death rate    : 1.536115e+02	deaths per day
 
 COVID-19 Predictions for Philippines
-R-Squared          : 9.928800e-01
-Predicted deaths   : 1.017003e+03
-As portion of pop. : 9.535717e-06
-Day of most deaths : 27-Apr-2020 14:24:03
-Peak death rate    : 1.838879e+01	deaths per day
+R-Squared          : 9.920375e-01
+Predicted deaths   : 1.087956e+03
+As portion of pop. : 1.020099e-05
+Day of most deaths : 30-Apr-2020 06:22:03
+Peak death rate    : 1.754187e+01	deaths per day
 
 COVID-19 Predictions for Poland
-R-Squared          : 9.936007e-01
-Predicted deaths   : 1.141096e+03
-As portion of pop. : 3.004581e-05
-Day of most deaths : 29-Apr-2020 15:40:40
-Peak death rate    : 2.455238e+01	deaths per day
+R-Squared          : 9.912975e-01
+Predicted deaths   : 1.208928e+03
+As portion of pop. : 3.183187e-05
+Day of most deaths : 01-May-2020 16:04:56
+Peak death rate    : 2.358951e+01	deaths per day
 
 COVID-19 Predictions for Portugal
-R-Squared          : 9.878145e-01
-Predicted deaths   : 1.424293e+03
-As portion of pop. : 1.385261e-04
-Day of most deaths : 21-Apr-2020 11:42:16
-Peak death rate    : 3.042845e+01	deaths per day
+R-Squared          : 9.869751e-01
+Predicted deaths   : 1.461850e+03
+As portion of pop. : 1.421790e-04
+Day of most deaths : 22-Apr-2020 10:21:58
+Peak death rate    : 2.959222e+01	deaths per day
 
 COVID-19 Predictions for Puerto_Rico
-R-Squared          : 9.925825e-01
-Predicted deaths   : 1.467800e+02
-As portion of pop. : 4.593834e-05
-Day of most deaths : 24-Apr-2020 11:07:30
-Peak death rate    : 2.452806e+00	deaths per day
+R-Squared          : 9.927452e-01
+Predicted deaths   : 1.491808e+02
+As portion of pop. : 4.668972e-05
+Day of most deaths : 24-Apr-2020 22:32:40
+Peak death rate    : 2.391041e+00	deaths per day
 
 COVID-19 Predictions for Qatar
-R-Squared          : 9.605120e-01
-Predicted deaths   : 3.085755e+06
-As portion of pop. : 1.109314e+00
-Day of most deaths : 13-Jan-2021 08:00:00
-Peak death rate    : 3.856885e+04	deaths per day
+R-Squared          : 9.769977e-01
+Predicted deaths   : 1.808266e+06
+As portion of pop. : 6.500632e-01
+Day of most deaths : 02-Jan-2021 12:36:21
+Peak death rate    : 2.260513e+04	deaths per day
 
 COVID-19 Predictions for Romania
-R-Squared          : 9.968172e-01
-Predicted deaths   : 1.345017e+03
-As portion of pop. : 6.906756e-05
-Day of most deaths : 29-Apr-2020 16:49:00
-Peak death rate    : 2.768506e+01	deaths per day
+R-Squared          : 9.962310e-01
+Predicted deaths   : 1.409940e+03
+As portion of pop. : 7.240140e-05
+Day of most deaths : 01-May-2020 09:06:14
+Peak death rate    : 2.675059e+01	deaths per day
 
 COVID-19 Predictions for Russia
-R-Squared          : 9.964934e-01
-Predicted deaths   : 7.749066e+03
-As portion of pop. : 5.363490e-05
-Day of most deaths : 26-May-2020 05:27:48
-Peak death rate    : 1.526413e+02	deaths per day
+R-Squared          : 9.953935e-01
+Predicted deaths   : 7.804860e+03
+As portion of pop. : 5.402108e-05
+Day of most deaths : 26-May-2020 01:42:06
+Peak death rate    : 1.587844e+02	deaths per day
 
 COVID-19 Predictions for Saudi_Arabia
-R-Squared          : 9.916124e-01
-Predicted deaths   : 1.084366e+07
-As portion of pop. : 3.217708e-01
-Day of most deaths : 04-Feb-2021 09:27:16
-Peak death rate    : 1.084475e+05	deaths per day
+R-Squared          : 9.935811e-01
+Predicted deaths   : 5.964102e+06
+As portion of pop. : 1.769766e-01
+Day of most deaths : 19-Jan-2021 23:45:26
+Peak death rate    : 5.965471e+04	deaths per day
 
 COVID-19 Predictions for Senegal
-R-Squared          : 9.919784e-01
-Predicted deaths   : 5.499715e+01
-As portion of pop. : 3.468897e-06
-Day of most deaths : 19-May-2020 00:11:20
-Peak death rate    : 1.351898e+00	deaths per day
+R-Squared          : 9.863533e-01
+Predicted deaths   : 6.728156e+01
+As portion of pop. : 4.243726e-06
+Day of most deaths : 24-May-2020 11:25:39
+Peak death rate    : 1.312922e+00	deaths per day
 
 COVID-19 Predictions for Serbia
-R-Squared          : 9.985661e-01
-Predicted deaths   : 2.494169e+02
-As portion of pop. : 3.572241e-05
-Day of most deaths : 21-Apr-2020 02:03:45
-Peak death rate    : 5.782487e+00	deaths per day
+R-Squared          : 9.984266e-01
+Predicted deaths   : 2.507212e+02
+As portion of pop. : 3.590922e-05
+Day of most deaths : 21-Apr-2020 05:45:00
+Peak death rate    : 5.743669e+00	deaths per day
+
+COVID-19 Predictions for Sierra_Leone
+R-Squared          : 8.309229e-01
+Predicted deaths   : 1.151080e+02
+As portion of pop. : 1.504650e-05
+Day of most deaths : 07-Jul-2020 11:38:10
+Peak death rate    : 2.870077e-01	deaths per day
 
 COVID-19 Predictions for Singapore
-R-Squared          : 9.886348e-01
-Predicted deaths   : 2.545537e+01
-As portion of pop. : 4.514423e-06
-Day of most deaths : 24-Apr-2020 00:37:49
-Peak death rate    : 4.627290e-01	deaths per day
+R-Squared          : 9.892086e-01
+Predicted deaths   : 2.572754e+01
+As portion of pop. : 4.562692e-06
+Day of most deaths : 24-Apr-2020 09:52:03
+Peak death rate    : 4.582887e-01	deaths per day
 
 COVID-19 Predictions for Slovakia
-R-Squared          : 9.934596e-01
-Predicted deaths   : 2.815637e+01
-As portion of pop. : 5.169142e-06
-Day of most deaths : 22-Apr-2020 12:55:52
-Peak death rate    : 1.059559e+00	deaths per day
+R-Squared          : 9.936691e-01
+Predicted deaths   : 2.812983e+01
+As portion of pop. : 5.164269e-06
+Day of most deaths : 22-Apr-2020 12:40:03
+Peak death rate    : 1.062406e+00	deaths per day
 
 COVID-19 Predictions for Slovenia
-R-Squared          : 9.954791e-01
-Predicted deaths   : 1.080438e+02
-As portion of pop. : 5.226141e-05
-Day of most deaths : 14-Apr-2020 01:08:28
-Peak death rate    : 2.733913e+00	deaths per day
+R-Squared          : 9.955512e-01
+Predicted deaths   : 1.083045e+02
+As portion of pop. : 5.238754e-05
+Day of most deaths : 14-Apr-2020 02:12:10
+Peak death rate    : 2.716097e+00	deaths per day
 
 COVID-19 Predictions for Somalia
-R-Squared          : 9.774661e-01
-Predicted deaths   : 1.917015e+02
-As portion of pop. : 1.277316e-05
-Day of most deaths : 16-Jun-2020 19:17:30
-Peak death rate    : 1.399992e+00	deaths per day
+R-Squared          : 9.786471e-01
+Predicted deaths   : 1.250353e+02
+As portion of pop. : 8.331155e-06
+Day of most deaths : 22-May-2020 15:15:48
+Peak death rate    : 1.229810e+00	deaths per day
 
 COVID-19 Predictions for South_Africa
-R-Squared          : 9.987038e-01
-Predicted deaths   : 3.632082e+07
-As portion of pop. : 6.286095e-01
-Day of most deaths : 29-Nov-2020 16:00:00
-Peak death rate    : 5.448123e+05	deaths per day
+R-Squared          : 9.989349e-01
+Predicted deaths   : 2.468789e+05
+As portion of pop. : 4.272767e-03
+Day of most deaths : 07-Sep-2020 14:03:38
+Peak death rate    : 3.702782e+03	deaths per day
 
 COVID-19 Predictions for South_Korea
-R-Squared          : 9.975068e-01
-Predicted deaths   : 2.672430e+02
-As portion of pop. : 5.175592e-06
-Day of most deaths : 26-Mar-2020 15:49:05
-Peak death rate    : 5.593331e+00	deaths per day
+R-Squared          : 9.970918e-01
+Predicted deaths   : 2.685065e+02
+As portion of pop. : 5.200061e-06
+Day of most deaths : 26-Mar-2020 19:58:05
+Peak death rate    : 5.554581e+00	deaths per day
 
 COVID-19 Predictions for South_Sudan
-R-Squared          : 7.129366e-01
-Predicted deaths   : 1.087250e+02
-As portion of pop. : 9.905774e-06
-Day of most deaths : 27-Jun-2020 11:23:38
-Peak death rate    : 2.436458e+00	deaths per day
+R-Squared          : 9.046035e-01
+Predicted deaths   : 2.460139e+02
+As portion of pop. : 2.241397e-05
+Day of most deaths : 11-Jul-2020 08:43:37
+Peak death rate    : 4.928114e+00	deaths per day
 
 COVID-19 Predictions for Spain
-R-Squared          : 9.915962e-01
-Predicted deaths   : 2.823893e+04
-As portion of pop. : 6.043807e-04
-Day of most deaths : 10-Apr-2020 01:35:30
-Peak death rate    : 7.806004e+02	deaths per day
+R-Squared          : 9.945144e-01
+Predicted deaths   : 2.730124e+04
+As portion of pop. : 5.843118e-04
+Day of most deaths : 09-Apr-2020 02:17:34
+Peak death rate    : 8.217573e+02	deaths per day
 
 COVID-19 Predictions for Sri_Lanka
-R-Squared          : 8.810664e-01
-Predicted deaths   : 1.768923e+01
-As portion of pop. : 8.163003e-07
-Day of most deaths : 19-May-2020 22:49:57
-Peak death rate    : 1.242675e-01	deaths per day
+R-Squared          : 8.233348e-01
+Predicted deaths   : 1.962719e+01
+As portion of pop. : 9.057312e-07
+Day of most deaths : 27-May-2020 21:17:20
+Peak death rate    : 9.495216e-02	deaths per day
 
 COVID-19 Predictions for Sudan
-R-Squared          : 9.811232e-01
-Predicted deaths   : 9.431466e+02
-As portion of pop. : 2.256249e-05
-Day of most deaths : 13-Jun-2020 21:32:39
-Peak death rate    : 1.844441e+01	deaths per day
+R-Squared          : 9.889820e-01
+Predicted deaths   : 6.506306e+02
+As portion of pop. : 1.556475e-05
+Day of most deaths : 05-Jun-2020 18:01:41
+Peak death rate    : 1.477116e+01	deaths per day
 
 COVID-19 Predictions for Sweden
-R-Squared          : 9.926858e-01
-Predicted deaths   : 4.716985e+03
-As portion of pop. : 4.632136e-04
-Day of most deaths : 30-Apr-2020 05:26:09
-Peak death rate    : 9.590753e+01	deaths per day
+R-Squared          : 9.923249e-01
+Predicted deaths   : 4.873993e+03
+As portion of pop. : 4.786319e-04
+Day of most deaths : 01-May-2020 10:02:22
+Peak death rate    : 9.416742e+01	deaths per day
 
 COVID-19 Predictions for Switzerland
-R-Squared          : 9.958843e-01
-Predicted deaths   : 1.637971e+03
-As portion of pop. : 1.923282e-04
-Day of most deaths : 12-Apr-2020 21:07:13
-Peak death rate    : 4.651368e+01	deaths per day
+R-Squared          : 9.958931e-01
+Predicted deaths   : 1.642866e+03
+As portion of pop. : 1.929029e-04
+Day of most deaths : 12-Apr-2020 23:07:07
+Peak death rate    : 4.633333e+01	deaths per day
 
 COVID-19 Predictions for Thailand
-R-Squared          : 9.909397e-01
-Predicted deaths   : 5.607652e+01
-As portion of pop. : 8.076870e-07
-Day of most deaths : 08-Apr-2020 05:40:57
-Peak death rate    : 2.371354e+00	deaths per day
+R-Squared          : 9.904781e-01
+Predicted deaths   : 5.629835e+01
+As portion of pop. : 8.108822e-07
+Day of most deaths : 08-Apr-2020 07:26:41
+Peak death rate    : 2.350840e+00	deaths per day
 
 COVID-19 Predictions for Tunisia
-R-Squared          : 9.195063e-01
-Predicted deaths   : 8.866632e+01
-As portion of pop. : 7.666645e-06
-Day of most deaths : 10-May-2020 06:25:02
-Peak death rate    : 1.817772e-01	deaths per day
+R-Squared          : 8.983842e-01
+Predicted deaths   : 8.924572e+01
+As portion of pop. : 7.716744e-06
+Day of most deaths : 11-May-2020 01:20:39
+Peak death rate    : 1.600269e-01	deaths per day
 
 COVID-19 Predictions for Turkey
-R-Squared          : 9.953338e-01
-Predicted deaths   : 4.550012e+03
-As portion of pop. : 5.527244e-05
-Day of most deaths : 23-Apr-2020 05:10:36
-Peak death rate    : 1.190756e+02	deaths per day
+R-Squared          : 9.945057e-01
+Predicted deaths   : 4.667102e+03
+As portion of pop. : 5.669482e-05
+Day of most deaths : 23-Apr-2020 23:53:25
+Peak death rate    : 1.153562e+02	deaths per day
 
 COVID-19 Predictions for Ukraine
-R-Squared          : 9.977695e-01
-Predicted deaths   : 9.099280e+02
-As portion of pop. : 2.039168e-05
-Day of most deaths : 14-May-2020 07:09:35
-Peak death rate    : 1.624489e+01	deaths per day
+R-Squared          : 9.977634e-01
+Predicted deaths   : 9.986536e+02
+As portion of pop. : 2.238004e-05
+Day of most deaths : 17-May-2020 13:21:05
+Peak death rate    : 1.629926e+01	deaths per day
 
 COVID-19 Predictions for United_Arab_Emirates
-R-Squared          : 9.979622e-01
-Predicted deaths   : 2.779956e+02
-As portion of pop. : 2.886478e-05
-Day of most deaths : 05-May-2020 06:42:40
-Peak death rate    : 7.906643e+00	deaths per day
+R-Squared          : 9.975347e-01
+Predicted deaths   : 2.827774e+02
+As portion of pop. : 2.936129e-05
+Day of most deaths : 05-May-2020 17:09:09
+Peak death rate    : 7.795483e+00	deaths per day
 
 COVID-19 Predictions for United_Kingdom
-R-Squared          : 9.905017e-01
-Predicted deaths   : 4.088300e+04
-As portion of pop. : 6.148837e-04
-Day of most deaths : 24-Apr-2020 06:52:44
-Peak death rate    : 8.810445e+02	deaths per day
+R-Squared          : 9.896314e-01
+Predicted deaths   : 4.169800e+04
+As portion of pop. : 6.271414e-04
+Day of most deaths : 25-Apr-2020 00:37:50
+Peak death rate    : 8.613549e+02	deaths per day
 
 COVID-19 Predictions for United_States_of_America
-R-Squared          : 9.930595e-01
-Predicted deaths   : 1.120060e+05
-As portion of pop. : 3.423507e-04
-Day of most deaths : 29-Apr-2020 02:44:33
-Peak death rate    : 2.360530e+03	deaths per day
+R-Squared          : 9.921974e-01
+Predicted deaths   : 1.157320e+05
+As portion of pop. : 3.537394e-04
+Day of most deaths : 30-Apr-2020 07:32:19
+Peak death rate    : 2.302648e+03	deaths per day
 
 COVID-19 Predictions for Uzbekistan
-R-Squared          : 9.631258e-01
-Predicted deaths   : 2.304057e+01
-As portion of pop. : 6.991440e-07
-Day of most deaths : 15-May-2020 23:14:02
-Peak death rate    : 2.371498e-01	deaths per day
+R-Squared          : 9.675394e-01
+Predicted deaths   : 3.866046e+01
+As portion of pop. : 1.173114e-06
+Day of most deaths : 15-Jun-2020 07:43:30
+Peak death rate    : 2.848773e-01	deaths per day
 
 COVID-19 Predictions for Venezuela
-R-Squared          : 9.682578e-01
-Predicted deaths   : 2.930945e+01
-As portion of pop. : 1.015215e-06
-Day of most deaths : 31-May-2020 01:44:27
-Peak death rate    : 1.013977e+00	deaths per day
+R-Squared          : 9.745811e-01
+Predicted deaths   : 2.622591e+01
+As portion of pop. : 9.084077e-07
+Day of most deaths : 29-May-2020 10:40:09
+Peak death rate    : 1.055207e+00	deaths per day
 
 COVID-19 Predictions for Zambia
-R-Squared          : 3.879041e-01
-Predicted deaths   : 3.199267e+01
-As portion of pop. : 1.843764e-06
-Day of most deaths : 13-Jul-2020 14:47:16
-Peak death rate    : 2.392812e-01	deaths per day
+R-Squared          : 7.462067e-01
+Predicted deaths   : 1.002279e+02
+As portion of pop. : 5.776218e-06
+Day of most deaths : 25-Aug-2020 23:59:59
+Peak death rate    : 7.530579e-01	deaths per day
 
 COVID-19 Predictions for China_Adjusted
-R-Squared          : 9.984889e-01
-Predicted deaths   : 4.610108e+03
-As portion of pop. : 3.310123e-06
-Day of most deaths : 16-Feb-2020 10:32:44
-Peak death rate    : 1.704758e+02	deaths per day
+R-Squared          : 9.984921e-01
+Predicted deaths   : 4.609817e+03
+As portion of pop. : 3.309914e-06
+Day of most deaths : 16-Feb-2020 10:30:42
+Peak death rate    : 1.704938e+02	deaths per day
 
