@@ -22,12 +22,12 @@ for ii = 1:length(C.records)
         tracking_this_country = any(contains(countries_to_track,current_country));
         if(tracking_this_country)
             current_country_idx = find(countries_to_track == current_country,1);
-            TimeSeries(current_country_idx).population = str2double(iRec.popData2019);
+            TimeSeries(current_country_idx).population = iRec.popData2019;
         end
     end    
     if(tracking_this_country)
-        rec_case_num = str2double(iRec.cases);
-        rec_death_num = str2double(iRec.deaths);
+        rec_case_num = (iRec.cases);
+        rec_death_num = (iRec.deaths);
         rec_date = datetime(iRec.dateRep,'InputFormat',"dd/MM/yyyy");
         TimeSeries(current_country_idx).dates(end+1) = rec_date;
         TimeSeries(current_country_idx).new_cases(end+1) = rec_case_num;
