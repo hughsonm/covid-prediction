@@ -22,7 +22,7 @@ for ii = 1:length(C.records)
         tracking_this_country = any(contains(countries_to_track,current_country));
         if(tracking_this_country)
             current_country_idx = find(countries_to_track == current_country,1);
-            TimeSeries(current_country_idx).population = str2double(iRec.popData2018);
+            TimeSeries(current_country_idx).population = str2double(iRec.popData2019);
         end
     end    
     if(tracking_this_country)
