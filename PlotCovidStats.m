@@ -56,7 +56,7 @@ xlabel("Date");
 ylabel("Cumulative Confirmed Cases");
 grid on;
 disp("Now is your chance to resize the plot...");pause();
-saveas(conf_case_fig, PLOT_DIR_NAME + "ConfCases.png");
+saveas(conf_case_fig, PLOT_DIR_NAME + "ConfCases.svg");
 
 conf_death_fig = figure();
 set(conf_death_fig,'Name','Confirmed Deaths');
@@ -83,7 +83,7 @@ xlabel("Date");
 ylabel("Cumulative Confirmed Deaths");
 grid on;
 disp("Now is your chance to resize the plot...");pause();
-saveas(conf_death_fig, PLOT_DIR_NAME + "ConfDeaths.png");
+saveas(conf_death_fig, PLOT_DIR_NAME + "ConfDeaths.svg");
 
 since_thresh_fig = figure();
 set(since_thresh_fig,'Name',"Cases After " + num2str(MIN_INF_THRESH));
@@ -117,7 +117,7 @@ xlabel("Days Since " + num2str(MIN_INF_THRESH) + " Cases");
 ylabel("Cumulative Confirmed Cases");
 grid on;
 disp("Now is your chance to resize the plot...");pause();
-saveas(since_thresh_fig, PLOT_DIR_NAME + "SinceThresh.png");
+saveas(since_thresh_fig, PLOT_DIR_NAME + "SinceThresh.svg");
 
 for fit_index = 1:length(CountriesToTrack)
     country_to_fit = CountriesToTrack(fit_index);
@@ -183,7 +183,7 @@ for fit_index = 1:length(CountriesToTrack)
     xlabel("Date");
     ylabel("Cumulative Deaths");
     grid on;
-    saveas(ff,PLOT_DIR_NAME + country_to_fit + ".png");
+    saveas(ff,PLOT_DIR_NAME + country_to_fit + ".svg");
 end
 
 [success,msg,msgid] = rmdir(LATEST_DIR_NAME,'s');
