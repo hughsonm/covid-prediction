@@ -219,32 +219,32 @@
       >COVID-19 Death Projection for Sudan</text
     ></g
     ><g style="stroke-linecap:butt; fill:rgb(0,114,189); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(0,114,189); color-interpolation:linearRGB; stroke-width:0.5;"
-    ><path d="M73 345.09 L78.1667 342.64 L83.3333 339.7 L88.5 337.74 L93.6667 334.8 L98.8333 329.9 L104 329.41 L109.1667 329.41 L114.3333 329.41 L119.5 326.47 L124.6667 322.55 L129.8333 322.55 L135 319.61 L140.1667 314.71 L145.3333 306.87 L150.5 302.46 L155.6667 302.46 L160.8333 293.15 L166 290.7 L171.1667 283.84 L176.3333 278.45 L181.5 259.83 L186.6667 245.62 L191.8333 233.86 L197 227.98 L202.1667 223.57 L207.3333 223.57 L212.5 220.14 L217.6667 210.83 L222.8333 203.97 L228 198.09 L233.1667 191.72 L238.3333 191.72 L243.5 183.39 L248.6667 171.63 L253.8333 161.83 L259 161.83 L264.1667 149.09 L269.3333 149.09 L274.5 140.27 L279.6667 135.37 L284.8333 135.37 L290 126.06 L295.1667 118.71 L300.3333 118.71 L305.5 112.83 L310.6667 105.48 L315.8333 105.48 L321 101.56 L326.1667 93.72 L331.3333 93.72 L336.5 93.72 L341.6667 93.72 L346.8333 93.72 L352 79.02 L357.1667 79.02" style="fill:none; fill-rule:evenodd;"
-      /><path d="M73 350.9206 L80.1936 347.9979 L87.3872 344.7426 L94.5808 341.1269 L101.7744 337.1228 L108.968 332.7034 L116.1616 327.8434 L123.3552 322.5208 L130.5488 316.717 L137.7424 310.4192 L144.936 303.621 L152.1296 296.3241 L159.3232 288.5392 L166.5168 280.2875 L173.7103 271.6006 L180.9039 262.5215 L188.0975 253.1038 L195.2911 243.4111 L202.4847 233.5154 L209.6783 223.4952 L216.8719 213.4331 L224.0655 203.413 L231.2591 193.5175 L238.4527 183.8251 L245.6463 174.4079 L252.8399 165.3293 L260.0335 156.643 L267.2271 148.3919 L274.4207 140.6077 L281.6143 133.3114 L288.8079 126.5139 L296.0015 120.2168 L303.1951 114.4137 L310.3887 109.0916 L317.5823 104.2323 L324.7758 99.8134 L331.9695 95.8099 L339.1631 92.1946 L346.3567 88.9399 L353.5503 86.0176 L360.7439 83.4002 L367.9374 81.0611 L375.131 78.9746 L382.3246 77.1168 L389.5182 75.4651 L396.7118 73.9987 L403.9054 72.6984 L411.099 71.5466 L418.2926 70.5274 L425.4862 69.6262 L432.6798 68.83 L439.8734 68.1271 L447.067 67.5068 L454.2606 66.9597 L461.4542 66.4774 L468.6478 66.0525" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
+    ><path d="M73 345.09 L78.1667 342.64 L83.3333 339.7 L88.5 337.74 L93.6667 334.8 L98.8333 329.9 L104 329.41 L109.1667 329.41 L114.3333 329.41 L119.5 326.47 L124.6667 322.55 L129.8333 322.55 L135 319.61 L140.1667 314.71 L145.3333 306.87 L150.5 302.46 L155.6667 302.46 L160.8333 293.15 L166 290.7 L171.1667 283.84 L176.3333 278.45 L181.5 259.83 L186.6667 245.62 L191.8333 233.86 L197 227.98 L202.1667 223.57 L207.3333 223.57 L212.5 220.14 L217.6667 210.83 L222.8333 203.97 L228 198.09 L233.1667 191.72 L238.3333 191.72 L243.5 183.39 L248.6667 171.63 L253.8333 161.83 L259 161.83 L264.1667 149.09 L269.3333 149.09 L274.5 140.27 L279.6667 135.37 L284.8333 135.37 L290 126.06 L295.1667 118.71 L300.3333 118.71 L305.5 112.83 L310.6667 105.48 L315.8333 105.48 L321 101.56 L326.1667 93.72 L331.3333 93.72 L336.5 93.72 L341.6667 93.72 L346.8333 93.72 L352 79.02 L357.1667 79.02 L362.3333 78.04 L367.5 78.04 L372.6667 76.08 L377.8333 76.08 L383 69.22" style="fill:none; fill-rule:evenodd;"
+      /><path d="M73 350.381 L79.6998 347.6589 L86.3996 344.6547 L93.0994 341.3465 L99.7992 337.7129 L106.499 333.7325 L113.1988 329.3854 L119.8986 324.6533 L126.5984 319.5204 L133.2982 313.9742 L139.998 308.0064 L146.6978 301.6137 L153.3976 294.7987 L160.0974 287.5706 L166.7972 279.946 L173.497 271.9489 L180.1968 263.6116 L186.8966 254.9738 L193.5964 246.0826 L200.2962 236.9914 L206.996 227.7591 L213.6958 218.4482 L220.3956 209.1236 L227.0954 199.8504 L233.7952 190.6923 L240.495 181.71 L247.1948 172.9592 L253.8946 164.49 L260.5944 156.3452 L267.2942 148.5601 L273.994 141.1624 L280.6938 134.1718 L287.3936 127.6004 L294.0934 121.4536 L300.7932 115.7305 L307.493 110.4247 L314.1928 105.5255 L320.8926 101.0182 L327.5924 96.8856 L334.2922 93.1084 L340.992 89.6657 L347.6918 86.536 L354.3916 83.6977 L361.0914 81.129 L367.7912 78.8088 L374.491 76.7168 L381.1908 74.8335 L387.8906 73.1404 L394.5904 71.6203 L401.2902 70.2572 L407.99 69.0359 L414.6898 67.9428 L421.3896 66.9653 L428.0894 66.0916 L434.7892 65.3115 L441.489 64.6151 L448.1888 63.9939 L454.8886 63.44 L461.5884 62.9463 L468.2881 62.5065 L474.988 62.1147" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
     /></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="218.471" style="fill:none;" x1="213.2703" x2="213.2703" y1="374"
+    ><line y2="216.4822" style="fill:none;" x1="215.1077" x2="215.1077" y1="374"
     /></g
-    ><g transform="translate(213.2703,218.471)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(215.1077,216.4822)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-9.5" style="stroke:none;"
       >Inflection Point</text
     ></g
-    ><g transform="translate(213.2703,218.471)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(215.1077,216.4822)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="3.5" style="stroke:none;"
-      >05-Jun-2020 03:34:40</text
+      >05-Jun-2020 12:06:46</text
       ><text x="0" xml:space="preserve" y="16.5" style="stroke:none;"
-      >14.754 deaths per day</text
+      >14.6838 deaths per day</text
     ></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="62.9419" style="fill:none;" x1="73" x2="468.6478" y1="62.9419"
+    ><line y2="58.9644" style="fill:none;" x1="73" x2="474.988" y1="58.9644"
     /></g
-    ><g transform="translate(270.8239,62.9419)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(273.994,58.9644)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-3" style="stroke:none;"
       ></text
     ></g
-    ><g transform="translate(270.8239,62.9419)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(273.994,58.9644)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="10" style="stroke:none;"
-      >Predicted Count: 634.8124 Total Deaths</text
+      >Predicted Count: 642.9298 Total Deaths</text
     ></g
     ><g style="fill:white; text-rendering:optimizeSpeed; color-rendering:optimizeSpeed; image-rendering:optimizeSpeed; shape-rendering:crispEdges; stroke:white; color-interpolation:sRGB;"
     ><path style="stroke:none;" d="M499 366 L499 339 L417 339 L417 366 Z"
