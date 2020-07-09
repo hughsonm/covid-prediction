@@ -49,14 +49,16 @@ for ii = 1:length(TimeSeries)
             "Interpreter","none");
     end
 end
-legend(legend_for_plot,'Location','northwest',"Interpreter","none");
+legend(legend_for_plot,'Location','bestoutside',"Interpreter","none");
 title("Cumulative Cases by Date, Minimum Population " +...
     num2str(MIN_POP_FOR_JOINED_PLOTS),"Interpreter","none");
 xlabel("Date");
 ylabel("Cumulative Confirmed Cases");
 grid on;
-disp("Now is your chance to resize the plot...");pause();
-saveas(conf_case_fig, PLOT_DIR_NAME + "ConfCases.svg");
+disp("Now is your chance to resize the plot...");
+set(conf_case_fig,"WindowState","maximized");
+figure(conf_case_fig);
+print(PLOT_DIR_NAME + "ConfCases","-dsvg");
 
 conf_death_fig = figure();
 set(conf_death_fig,'Name','Confirmed Deaths');
@@ -76,14 +78,16 @@ for ii = 1:length(TimeSeries)
             "Interpreter","none");
     end
 end
-legend(legend_for_plot,'Location','northwest');
+legend(legend_for_plot,'Location','bestoutside');
 title("Cumulative Deaths by Date, Minimum Population " +...
     num2str(MIN_POP_FOR_JOINED_PLOTS),"Interpreter","none");
 xlabel("Date");
 ylabel("Cumulative Confirmed Deaths");
 grid on;
-disp("Now is your chance to resize the plot...");pause();
-saveas(conf_death_fig, PLOT_DIR_NAME + "ConfDeaths.svg");
+disp("Now is your chance to resize the plot...");
+set(conf_death_fig,"WindowState","maximized");
+figure(conf_death_fig);
+print(PLOT_DIR_NAME + "ConfDeaths","-dsvg");
 
 since_thresh_fig = figure();
 set(since_thresh_fig,'Name',"Cases After " + num2str(MIN_INF_THRESH));
@@ -108,7 +112,7 @@ for ii = 1:length(TimeSeries)
         TimeSeries(ii).name,...
         "Interpreter","none");
 end
-legend(legend_for_plot,'Location','southeast',"Interpreter","none");
+legend(legend_for_plot,'Location','bestoutside',"Interpreter","none");
 title("Cumulative Cases After Reaching " +...
     num2str(MIN_INF_THRESH) + " Cases, Minimum Population " +...
     num2str(MIN_POP_FOR_JOINED_PLOTS),...
@@ -116,8 +120,10 @@ title("Cumulative Cases After Reaching " +...
 xlabel("Days Since " + num2str(MIN_INF_THRESH) + " Cases");
 ylabel("Cumulative Confirmed Cases");
 grid on;
-disp("Now is your chance to resize the plot...");pause();
-saveas(since_thresh_fig, PLOT_DIR_NAME + "SinceThresh.svg");
+disp("Now is your chance to resize the plot...");
+set(since_thresh_fig,"WindowState","maximized");
+figure(since_thresh_fig);
+print(PLOT_DIR_NAME + "SinceThresh","-dsvg");
 
 for fit_index = 1:length(CountriesToTrack)
     country_to_fit = CountriesToTrack(fit_index);
@@ -183,7 +189,8 @@ for fit_index = 1:length(CountriesToTrack)
     xlabel("Date");
     ylabel("Cumulative Deaths");
     grid on;
-    saveas(ff,PLOT_DIR_NAME + country_to_fit + ".svg");
+    figure(ff);
+    print(PLOT_DIR_NAME + country_to_fit,"-dsvg");
 end
 
 [success,msg,msgid] = rmdir(LATEST_DIR_NAME,'s');
