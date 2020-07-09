@@ -55,7 +55,7 @@ title("Cumulative Cases by Date, Minimum Population " +...
 xlabel("Date");
 ylabel("Cumulative Confirmed Cases");
 grid on;
-disp("Now is your chance to resize the plot...");
+
 set(conf_case_fig,"WindowState","maximized");
 figure(conf_case_fig);
 print(PLOT_DIR_NAME + "ConfCases","-dsvg");
@@ -84,7 +84,7 @@ title("Cumulative Deaths by Date, Minimum Population " +...
 xlabel("Date");
 ylabel("Cumulative Confirmed Deaths");
 grid on;
-disp("Now is your chance to resize the plot...");
+
 set(conf_death_fig,"WindowState","maximized");
 figure(conf_death_fig);
 print(PLOT_DIR_NAME + "ConfDeaths","-dsvg");
@@ -120,7 +120,7 @@ title("Cumulative Cases After Reaching " +...
 xlabel("Days Since " + num2str(MIN_INF_THRESH) + " Cases");
 ylabel("Cumulative Confirmed Cases");
 grid on;
-disp("Now is your chance to resize the plot...");
+
 set(since_thresh_fig,"WindowState","maximized");
 figure(since_thresh_fig);
 print(PLOT_DIR_NAME + "SinceThresh","-dsvg");
