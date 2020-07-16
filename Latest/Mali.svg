@@ -210,32 +210,32 @@
       >COVID-19 Death Projection for Mali</text
     ></g
     ><g style="stroke-linecap:butt; fill:rgb(0,114,189); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(0,114,189); color-interpolation:linearRGB; stroke-width:0.5;"
-    ><path d="M73 219.65 L79.2 214.75 L85.4 209.85 L91.6 202.5 L97.8 202.5 L104 197.6 L110.2 195.15 L116.4 187.8 L122.6 185.35 L128.8 182.9 L135 182.9 L141.2 182.9 L147.4 165.75 L153.6 160.85 L159.8 153.5 L166 148.6 L172.2 148.6 L178.4 143.7 L184.6 138.8 L190.8 136.35 L197 126.55 L203.2 119.2 L209.4 119.2 L215.6 119.2 L221.8 114.3 L228 111.85 L234.2 111.85 L240.4 109.4 L246.6 106.95 L252.8 102.05 L259 102.05 L265.2 102.05 L271.4 99.6 L277.6 97.15 L283.8 97.15 L290 97.15 L296.2 94.7 L302.4 92.25 L308.6 89.8 L314.8 89.8 L321 87.35 L327.2 87.35 L333.4 84.9 L339.6 82.45 L345.8 82.45 L352 82.45 L358.2 80 L364.4 80 L370.6 77.55 L376.8 77.55 L383 77.55 L389.2 77.55 L395.4 77.55" style="fill:none; fill-rule:evenodd;"
-      /><path d="M73 224.1871 L80.9793 217.3685 L88.9587 210.5644 L96.938 203.8016 L104.9174 197.1063 L112.8967 190.5036 L120.8761 184.0173 L128.8554 177.6694 L136.8348 171.4797 L144.8141 165.4662 L152.7935 159.6441 L160.7728 154.0266 L168.7521 148.624 L176.7315 143.4446 L184.7108 138.4941 L192.6902 133.776 L200.6695 129.2917 L208.6489 125.0408 L216.6282 121.0211 L224.6076 117.229 L232.5869 113.6593 L240.5662 110.3062 L248.5456 107.1625 L256.5249 104.2206 L264.5043 101.4723 L272.4836 98.909 L280.463 96.5217 L288.4423 94.3015 L296.4217 92.2393 L304.401 90.3263 L312.3803 88.5535 L320.3597 86.9124 L328.3391 85.3948 L336.3184 83.9924 L344.2977 82.6977 L352.2771 81.5033 L360.2564 80.4022 L368.2357 79.3876 L376.2151 78.4535 L384.1945 77.5939 L392.1738 76.8032 L400.1531 76.0762 L408.1325 75.4082 L416.1118 74.7945 L424.0912 74.2309 L432.0705 73.7136 L440.0499 73.2388 L448.0292 72.8032 L456.0085 72.4036 L463.9879 72.0372 L471.9673 71.7013 L479.9466 71.3934 L487.9259 71.1112" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
+    ><path d="M73 219.65 L79.2 214.75 L85.4 209.85 L91.6 202.5 L97.8 202.5 L104 197.6 L110.2 195.15 L116.4 187.8 L122.6 185.35 L128.8 182.9 L135 182.9 L141.2 182.9 L147.4 165.75 L153.6 160.85 L159.8 153.5 L166 148.6 L172.2 148.6 L178.4 143.7 L184.6 138.8 L190.8 136.35 L197 126.55 L203.2 119.2 L209.4 119.2 L215.6 119.2 L221.8 114.3 L228 111.85 L234.2 111.85 L240.4 109.4 L246.6 106.95 L252.8 102.05 L259 102.05 L265.2 102.05 L271.4 99.6 L277.6 97.15 L283.8 97.15 L290 97.15 L296.2 94.7 L302.4 92.25 L308.6 89.8 L314.8 89.8 L321 87.35 L327.2 87.35 L333.4 84.9 L339.6 82.45 L345.8 82.45 L352 82.45 L358.2 80 L364.4 80 L370.6 77.55 L376.8 77.55 L383 77.55 L389.2 77.55 L395.4 77.55 L401.6 77.55" style="fill:none; fill-rule:evenodd;"
+      /><path d="M73 224.1727 L80.8359 217.4816 L88.6719 210.804 L96.5078 204.1652 L104.3438 197.59 L112.1797 191.1021 L120.0156 184.7242 L127.8516 178.4771 L135.6875 172.38 L143.5235 166.4501 L151.3594 160.7021 L159.1953 155.1489 L167.0313 149.8008 L174.8672 144.6659 L182.7032 139.7503 L190.5391 135.0577 L198.375 130.59 L206.211 126.3474 L214.0469 122.3282 L221.8828 118.5294 L229.7188 114.9468 L237.5547 111.5749 L245.3907 108.4074 L253.2266 105.4374 L261.0626 102.6573 L268.8985 100.059 L276.7344 97.6343 L284.5704 95.3747 L292.4063 93.2717 L300.2422 91.3168 L308.0782 89.5016 L315.9141 87.8179 L323.7501 86.2576 L331.586 84.813 L339.422 83.4765 L347.2579 82.2412 L355.0938 81.1001 L362.9298 80.0467 L370.7657 79.0749 L378.6017 78.1788 L386.4376 77.353 L394.2735 76.5922 L402.1095 75.8918 L409.9454 75.2472 L417.7813 74.6541 L425.6173 74.1086 L433.4532 73.607 L441.2892 73.146 L449.1251 72.7224 L456.961 72.3332 L464.797 71.9757 L472.6329 71.6474 L480.4689 71.346 L488.3048 71.0693" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
     /></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="221.0258" style="fill:none;" x1="76.6993" x2="76.6993" y1="374"
+    ><line y2="221.0047" style="fill:none;" x1="76.71" x2="76.71" y1="374"
     /></g
-    ><g transform="translate(76.6993,221.0258)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(76.71,221.0047)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-9.5" style="stroke:none;"
       >Inflection Point</text
     ></g
-    ><g transform="translate(76.6993,221.0258)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(76.71,221.0047)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="3.5" style="stroke:none;"
-      >24-May-2020 14:19:11</text
+      >24-May-2020 14:21:40</text
       ><text x="0" xml:space="preserve" y="16.5" style="stroke:none;"
-      >2.1629 deaths per day</text
+      >2.1612 deaths per day</text
     ></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="68.0517" style="fill:none;" x1="73" x2="487.9259" y1="68.0517"
+    ><line y2="68.0094" style="fill:none;" x1="73" x2="488.3048" y1="68.0094"
     /></g
-    ><g transform="translate(280.463,68.0517)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(280.6524,68.0094)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-3" style="stroke:none;"
       ></text
     ></g
-    ><g transform="translate(280.463,68.0517)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(280.6524,68.0094)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="10" style="stroke:none;"
-      >Predicted Count: 124.8769 Total Deaths</text
+      >Predicted Count: 124.8941 Total Deaths</text
     ></g
     ><g style="fill:white; text-rendering:optimizeSpeed; color-rendering:optimizeSpeed; image-rendering:optimizeSpeed; shape-rendering:crispEdges; stroke:white; color-interpolation:sRGB;"
     ><path style="stroke:none;" d="M499 366 L499 339 L417 339 L417 366 Z"

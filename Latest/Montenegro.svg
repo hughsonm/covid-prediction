@@ -222,32 +222,32 @@
       >COVID-19 Death Projection for Montenegro</text
     ></g
     ><g style="stroke-linecap:butt; fill:rgb(0,114,189); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(0,114,189); color-interpolation:linearRGB; stroke-width:0.5;"
-    ><path d="M217.6667 113.32 L265.8889 113.32 L314.1111 58.44 L362.3333 58.44 L410.5555 58.44 L458.7778 58.44" style="fill:none; fill-rule:evenodd;"
-      /><path d="M217.6667 120.1784 L271.6099 89.8097 L325.5531 71.1908 L379.4963 60.6401 L433.4395 54.9268 L487.3827 51.9088" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
+    ><path d="M217.6667 113.32 L265.8889 113.32 L314.1111 58.44 L362.3333 58.44 L410.5555 58.44 L458.7778 58.44 L507 58.44" style="fill:none; fill-rule:evenodd;"
+      /><path d="M217.6667 120.3718 L265.8889 91.7301 L314.1111 74.1444 L362.3333 64.1183 L410.5555 58.6422 L458.7778 55.7212 L507 54.1828" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
     /></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="211.3277" style="fill:none;" x1="115.0305" x2="115.0305" y1="374"
+    ><line y2="213.2519" style="fill:none;" x1="120.6424" x2="120.6424" y1="374"
     /></g
-    ><g transform="translate(115.0305,211.3277)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(120.6424,213.2519)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-9.5" style="stroke:none;"
       >Inflection Point</text
     ></g
-    ><g transform="translate(115.0305,211.3277)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(120.6424,213.2519)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="3.5" style="stroke:none;"
-      >07-Jul-2020 20:55:06</text
+      >07-Jul-2020 23:42:41</text
       ><text x="0" xml:space="preserve" y="16.5" style="stroke:none;"
-      >3.5279 deaths per day</text
+      >3.8383 deaths per day</text
     ></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="48.6553" style="fill:none;" x1="217.6667" x2="487.3827" y1="48.6553"
+    ><line y2="52.5039" style="fill:none;" x1="217.6667" x2="507" y1="52.5039"
     /></g
-    ><g transform="translate(352.5247,48.6553)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(362.3333,52.5039)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-3" style="stroke:none;"
       ></text
     ></g
-    ><g transform="translate(352.5247,48.6553)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(362.3333,52.5039)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="10" style="stroke:none;"
-      >Predicted Count: 23.7132 Total Deaths</text
+      >Predicted Count: 23.4327 Total Deaths</text
     ></g
     ><g style="fill:white; text-rendering:optimizeSpeed; color-rendering:optimizeSpeed; image-rendering:optimizeSpeed; shape-rendering:crispEdges; stroke:white; color-interpolation:sRGB;"
     ><path style="stroke:none;" d="M499 366 L499 339 L417 339 L417 366 Z"
