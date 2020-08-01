@@ -2,6 +2,11 @@
 close all;
 clearvars;
 
+url = "https://opendata.ecdc.europa.eu/covid19/casedistribution/json/";
+save_filename = "./covid.json";
+save_fullname = websave(save_filename,url);
+
+
 MIN_INF_THRESH = 1000;
 FINAL_PLOT_P = 0.99;
 DATE_FORMAT = 30;
