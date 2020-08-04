@@ -45,16 +45,16 @@
         /><glyph unicode="P" horiz-adv-x="64.8" d="M17.3 37.2 L17.3 63.4 L35.9 63.4 Q44 63.4 47.75 60.05 Q51.5 56.7 51.5 50.3 Q51.5 43.9 47.75 40.5 Q44 37.1 35.9 37.2 ZM7.8 71.4 L7.8 0 L17.3 0 L17.3 29.2 L39.1 29.2 Q49.9 29.1 55.45 34.7 Q61 40.3 61 50.3 Q61 60.3 55.45 65.85 Q49.9 71.4 39.1 71.4 Z"
         /><glyph unicode="f" horiz-adv-x="29.6" d="M9.9 44.2 L9.9 0 L18.4 0 L18.4 44.2 L28.4 44.2 L28.4 51.7 L18.4 51.7 L18.4 58.9 Q18.4 62.3 20.1 63.5 Q21.8 64.7 24.9 64.7 Q26 64.7 27.3 64.55 Q28.6 64.4 29.7 64 L29.7 71.4 Q28.5 71.8 26.95 72 Q25.4 72.2 24.2 72.2 Q17.2 72.2 13.55 68.95 Q9.9 65.7 9.9 59.4 L9.9 51.7 L1.2 51.7 L1.2 44.2 Z"
         /><glyph unicode="I" horiz-adv-x="25.9" d="M8.2 71.4 L8.2 0 L17.7 0 L17.7 71.4 Z"
-        /><glyph unicode="7" horiz-adv-x="55.6" d="M50.9 62.4 L50.9 69.7 L5 69.7 L5 61.7 L42.2 61.7 Q36.6 55.8 31.75 48.8 Q26.9 41.8 23.2 33.95 Q19.5 26.1 17.15 17.55 Q14.8 9 14.2 0 L23.7 0 Q24.2 8.3 26.5 17.1 Q28.8 25.9 32.45 34.2 Q36.1 42.5 40.8 49.8 Q45.5 57.1 50.9 62.4 Z"
-        /><glyph unicode="9" horiz-adv-x="55.6" d="M13.4 17.1 L4.9 17.1 Q5.7 7.9 11.6 3.4 Q17.5 -1.1 26.4 -1.1 Q39.3 -1.1 45.15 8.75 Q51 18.6 51 37 Q51 47.1 49.05 53.65 Q47.1 60.2 43.8 64 Q40.5 67.8 36.1 69.35 Q31.7 70.9 26.7 70.9 Q21.6 70.9 17.3 69.2 Q13 67.5 9.9 64.45 Q6.8 61.4 5.1 57.15 Q3.4 52.9 3.4 47.8 Q3.4 42.6 4.85 38.2 Q6.3 33.8 9.15 30.7 Q12 27.6 16.2 25.85 Q20.4 24.1 25.8 24.1 Q31 24.1 35.4 26.75 Q39.8 29.4 42.2 33.9 L42.4 33.7 Q42 19.8 38.1 13.05 Q34.2 6.3 26.4 6.3 Q21.3 6.3 17.6 9.1 Q13.9 11.9 13.4 17.1 ZM40.9 47.2 Q40.9 44.1 39.9 41.25 Q38.9 38.4 37 36.25 Q35.1 34.1 32.4 32.85 Q29.7 31.6 26.4 31.6 Q23.3 31.6 20.75 32.85 Q18.2 34.1 16.35 36.2 Q14.5 38.3 13.45 41 Q12.4 43.7 12.4 46.6 Q12.4 49.9 13.15 52.9 Q13.9 55.9 15.55 58.25 Q17.2 60.6 19.85 62 Q22.5 63.4 26.3 63.4 Q29.9 63.4 32.6 62.1 Q35.3 60.8 37.15 58.55 Q39 56.3 39.95 53.4 Q40.9 50.5 40.9 47.2 Z"
-        /><glyph unicode=":" horiz-adv-x="27.8" d="M19.4 40.6 L19.4 51.7 L8.3 51.7 L8.3 40.6 ZM8.3 11.1 L8.3 0 L19.4 0 L19.4 11.1 Z"
+        /><glyph unicode="6" horiz-adv-x="55.6" d="M41.4 52.8 L49.9 52.8 Q49.1 61.6 43.9 66.25 Q38.7 70.9 29.9 70.9 Q22.3 70.9 17.3 67.7 Q12.3 64.5 9.3 59.2 Q6.3 53.9 5.05 47.05 Q3.8 40.2 3.8 32.9 Q3.8 27.3 4.65 21.3 Q5.5 15.3 8.1 10.3 Q10.7 5.3 15.5 2.1 Q20.3 -1.1 28.2 -1.1 Q34.9 -1.1 39.45 1.15 Q44 3.4 46.75 6.85 Q49.5 10.3 50.7 14.5 Q51.9 18.7 51.9 22.6 Q51.9 27.5 50.4 31.7 Q48.9 35.9 46.15 39 Q43.4 42.1 39.35 43.85 Q35.3 45.6 30.2 45.6 Q24.4 45.6 19.95 43.4 Q15.5 41.2 12.5 36.3 L12.3 36.5 Q12.4 40.6 13.1 45.3 Q13.8 50 15.65 54.05 Q17.5 58.1 20.8 60.75 Q24.1 63.4 29.5 63.4 Q34.6 63.4 37.7 60.5 Q40.8 57.6 41.4 52.8 ZM28.6 38.1 Q32.2 38.1 34.9 36.8 Q37.6 35.5 39.4 33.35 Q41.2 31.2 42.05 28.25 Q42.9 25.3 42.9 22 Q42.9 18.9 41.95 16.05 Q41 13.2 39.2 11 Q37.4 8.8 34.75 7.55 Q32.1 6.3 28.6 6.3 Q25.1 6.3 22.35 7.55 Q19.6 8.8 17.75 10.9 Q15.9 13 14.9 15.9 Q13.9 18.8 13.9 22.1 Q13.9 25.4 14.85 28.35 Q15.8 31.3 17.7 33.45 Q19.6 35.6 22.3 36.85 Q25 38.1 28.6 38.1 Z"
         /><glyph unicode="4" horiz-adv-x="55.6" d="M33.9 24.1 L10.1 24.1 L33.7 58.8 L33.9 58.8 ZM41.9 24.1 L41.9 70.9 L35.1 70.9 L2.8 24.8 L2.8 16.6 L33.9 16.6 L33.9 0 L41.9 0 L41.9 16.6 L51.5 16.6 L51.5 24.1 Z"
+        /><glyph unicode=":" horiz-adv-x="27.8" d="M19.4 40.6 L19.4 51.7 L8.3 51.7 L8.3 40.6 ZM8.3 11.1 L8.3 0 L19.4 0 L19.4 11.1 Z"
+        /><glyph unicode="9" horiz-adv-x="55.6" d="M13.4 17.1 L4.9 17.1 Q5.7 7.9 11.6 3.4 Q17.5 -1.1 26.4 -1.1 Q39.3 -1.1 45.15 8.75 Q51 18.6 51 37 Q51 47.1 49.05 53.65 Q47.1 60.2 43.8 64 Q40.5 67.8 36.1 69.35 Q31.7 70.9 26.7 70.9 Q21.6 70.9 17.3 69.2 Q13 67.5 9.9 64.45 Q6.8 61.4 5.1 57.15 Q3.4 52.9 3.4 47.8 Q3.4 42.6 4.85 38.2 Q6.3 33.8 9.15 30.7 Q12 27.6 16.2 25.85 Q20.4 24.1 25.8 24.1 Q31 24.1 35.4 26.75 Q39.8 29.4 42.2 33.9 L42.4 33.7 Q42 19.8 38.1 13.05 Q34.2 6.3 26.4 6.3 Q21.3 6.3 17.6 9.1 Q13.9 11.9 13.4 17.1 ZM40.9 47.2 Q40.9 44.1 39.9 41.25 Q38.9 38.4 37 36.25 Q35.1 34.1 32.4 32.85 Q29.7 31.6 26.4 31.6 Q23.3 31.6 20.75 32.85 Q18.2 34.1 16.35 36.2 Q14.5 38.3 13.45 41 Q12.4 43.7 12.4 46.6 Q12.4 49.9 13.15 52.9 Q13.9 55.9 15.55 58.25 Q17.2 60.6 19.85 62 Q22.5 63.4 26.3 63.4 Q29.9 63.4 32.6 62.1 Q35.3 60.8 37.15 58.55 Q39 56.3 39.95 53.4 Q40.9 50.5 40.9 47.2 Z"
         /><glyph unicode="-" horiz-adv-x="38.9" d="M5 31.8 L5 23.8 L33.9 23.8 L33.9 31.8 Z"
         /><glyph unicode="d" horiz-adv-x="59.3" d="M12.6 25.4 Q12.6 29.2 13.4 32.8 Q14.2 36.4 16 39.2 Q17.8 42 20.8 43.7 Q23.8 45.4 28.1 45.4 Q32.5 45.4 35.6 43.75 Q38.7 42.1 40.65 39.4 Q42.6 36.7 43.5 33.15 Q44.4 29.6 44.4 25.8 Q44.4 22.2 43.55 18.7 Q42.7 15.2 40.8 12.45 Q38.9 9.7 35.9 8 Q32.9 6.3 28.6 6.3 Q24.5 6.3 21.45 7.9 Q18.4 9.5 16.45 12.2 Q14.5 14.9 13.55 18.35 Q12.6 21.8 12.6 25.4 ZM52.6 0 L52.6 71.4 L44.1 71.4 L44.1 44.8 L43.9 44.8 Q42.5 47.1 40.45 48.65 Q38.4 50.2 36.1 51.15 Q33.8 52.1 31.5 52.5 Q29.2 52.9 27.2 52.9 Q21.3 52.9 16.85 50.75 Q12.4 48.6 9.45 44.95 Q6.5 41.3 5.05 36.4 Q3.6 31.5 3.6 26 Q3.6 20.5 5.1 15.6 Q6.6 10.7 9.55 7 Q12.5 3.3 16.95 1.1 Q21.4 -1.1 27.4 -1.1 Q32.8 -1.1 37.3 0.8 Q41.8 2.7 43.9 7 L44.1 7 L44.1 0 Z"
-        /><glyph unicode="8" horiz-adv-x="55.6" d="M15.5 52.5 Q15.5 55.2 16.5 57.2 Q17.5 59.2 19.15 60.6 Q20.8 62 23.1 62.7 Q25.4 63.4 27.9 63.4 Q33.1 63.4 36.45 60.65 Q39.8 57.9 39.8 52.5 Q39.8 47.1 36.5 44.1 Q33.2 41.1 28.1 41.1 Q25.5 41.1 23.2 41.8 Q20.9 42.5 19.2 43.9 Q17.5 45.3 16.5 47.45 Q15.5 49.6 15.5 52.5 ZM6.5 52.8 Q6.5 48 9.2 43.95 Q11.9 39.9 16.4 38.1 Q10.4 36 7.2 31.35 Q4 26.7 4 20.4 Q4 15 5.85 10.95 Q7.7 6.9 10.95 4.2 Q14.2 1.5 18.6 0.2 Q23 -1.1 28.1 -1.1 Q33 -1.1 37.3 0.3 Q41.6 1.7 44.75 4.45 Q47.9 7.2 49.75 11.2 Q51.6 15.2 51.6 20.4 Q51.6 27 48.5 31.55 Q45.4 36.1 39 38.1 Q43.5 40.1 46.15 44.05 Q48.8 48 48.8 52.8 Q48.8 56.2 47.6 59.45 Q46.4 62.7 43.85 65.25 Q41.3 67.8 37.2 69.35 Q33.1 70.9 27.3 70.9 Q23.2 70.9 19.45 69.7 Q15.7 68.5 12.8 66.2 Q9.9 63.9 8.2 60.55 Q6.5 57.2 6.5 52.8 ZM13 20 Q13 23.1 14.15 25.6 Q15.3 28.1 17.35 29.9 Q19.4 31.7 22.15 32.65 Q24.9 33.6 28 33.6 Q31 33.6 33.65 32.55 Q36.3 31.5 38.3 29.7 Q40.3 27.9 41.45 25.45 Q42.6 23 42.6 20.1 Q42.6 17.1 41.55 14.6 Q40.5 12.1 38.55 10.25 Q36.6 8.4 33.95 7.35 Q31.3 6.3 28.1 6.3 Q21.5 6.3 17.25 9.95 Q13 13.6 13 20 Z"
-        /><glyph unicode="6" horiz-adv-x="55.6" d="M41.4 52.8 L49.9 52.8 Q49.1 61.6 43.9 66.25 Q38.7 70.9 29.9 70.9 Q22.3 70.9 17.3 67.7 Q12.3 64.5 9.3 59.2 Q6.3 53.9 5.05 47.05 Q3.8 40.2 3.8 32.9 Q3.8 27.3 4.65 21.3 Q5.5 15.3 8.1 10.3 Q10.7 5.3 15.5 2.1 Q20.3 -1.1 28.2 -1.1 Q34.9 -1.1 39.45 1.15 Q44 3.4 46.75 6.85 Q49.5 10.3 50.7 14.5 Q51.9 18.7 51.9 22.6 Q51.9 27.5 50.4 31.7 Q48.9 35.9 46.15 39 Q43.4 42.1 39.35 43.85 Q35.3 45.6 30.2 45.6 Q24.4 45.6 19.95 43.4 Q15.5 41.2 12.5 36.3 L12.3 36.5 Q12.4 40.6 13.1 45.3 Q13.8 50 15.65 54.05 Q17.5 58.1 20.8 60.75 Q24.1 63.4 29.5 63.4 Q34.6 63.4 37.7 60.5 Q40.8 57.6 41.4 52.8 ZM28.6 38.1 Q32.2 38.1 34.9 36.8 Q37.6 35.5 39.4 33.35 Q41.2 31.2 42.05 28.25 Q42.9 25.3 42.9 22 Q42.9 18.9 41.95 16.05 Q41 13.2 39.2 11 Q37.4 8.8 34.75 7.55 Q32.1 6.3 28.6 6.3 Q25.1 6.3 22.35 7.55 Q19.6 8.8 17.75 10.9 Q15.9 13 14.9 15.9 Q13.9 18.8 13.9 22.1 Q13.9 25.4 14.85 28.35 Q15.8 31.3 17.7 33.45 Q19.6 35.6 22.3 36.85 Q25 38.1 28.6 38.1 Z"
+        /><glyph unicode="7" horiz-adv-x="55.6" d="M50.9 62.4 L50.9 69.7 L5 69.7 L5 61.7 L42.2 61.7 Q36.6 55.8 31.75 48.8 Q26.9 41.8 23.2 33.95 Q19.5 26.1 17.15 17.55 Q14.8 9 14.2 0 L23.7 0 Q24.2 8.3 26.5 17.1 Q28.8 25.9 32.45 34.2 Q36.1 42.5 40.8 49.8 Q45.5 57.1 50.9 62.4 Z"
         /><glyph unicode="." horiz-adv-x="27.8" d="M8.3 11.1 L8.3 0 L19.4 0 L19.4 11.1 Z"
         /><glyph unicode="T" horiz-adv-x="57.4" d="M24 63.4 L24 0 L33.5 0 L33.5 63.4 L57.3 63.4 L57.3 71.4 L0.2 71.4 L0.2 63.4 Z"
+        /><glyph unicode="8" horiz-adv-x="55.6" d="M15.5 52.5 Q15.5 55.2 16.5 57.2 Q17.5 59.2 19.15 60.6 Q20.8 62 23.1 62.7 Q25.4 63.4 27.9 63.4 Q33.1 63.4 36.45 60.65 Q39.8 57.9 39.8 52.5 Q39.8 47.1 36.5 44.1 Q33.2 41.1 28.1 41.1 Q25.5 41.1 23.2 41.8 Q20.9 42.5 19.2 43.9 Q17.5 45.3 16.5 47.45 Q15.5 49.6 15.5 52.5 ZM6.5 52.8 Q6.5 48 9.2 43.95 Q11.9 39.9 16.4 38.1 Q10.4 36 7.2 31.35 Q4 26.7 4 20.4 Q4 15 5.85 10.95 Q7.7 6.9 10.95 4.2 Q14.2 1.5 18.6 0.2 Q23 -1.1 28.1 -1.1 Q33 -1.1 37.3 0.3 Q41.6 1.7 44.75 4.45 Q47.9 7.2 49.75 11.2 Q51.6 15.2 51.6 20.4 Q51.6 27 48.5 31.55 Q45.4 36.1 39 38.1 Q43.5 40.1 46.15 44.05 Q48.8 48 48.8 52.8 Q48.8 56.2 47.6 59.45 Q46.4 62.7 43.85 65.25 Q41.3 67.8 37.2 69.35 Q33.1 70.9 27.3 70.9 Q23.2 70.9 19.45 69.7 Q15.7 68.5 12.8 66.2 Q9.9 63.9 8.2 60.55 Q6.5 57.2 6.5 52.8 ZM13 20 Q13 23.1 14.15 25.6 Q15.3 28.1 17.35 29.9 Q19.4 31.7 22.15 32.65 Q24.9 33.6 28 33.6 Q31 33.6 33.65 32.55 Q36.3 31.5 38.3 29.7 Q40.3 27.9 41.45 25.45 Q42.6 23 42.6 20.1 Q42.6 17.1 41.55 14.6 Q40.5 12.1 38.55 10.25 Q36.6 8.4 33.95 7.35 Q31.3 6.3 28.1 6.3 Q21.5 6.3 17.25 9.95 Q13 13.6 13 20 Z"
       /></font
       ><font horiz-adv-x="50.0" id="font2"
       ><font-face ascent="97.5" descent="21.699999" units-per-em="100" style="font-style:normal; font-family:Helvetica Neue; font-weight:bold;"
@@ -92,12 +92,13 @@
     /></g
     ><g style="stroke-linecap:butt; fill-opacity:0.149; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(38,38,38); color-interpolation:linearRGB; stroke-width:0.5; stroke-opacity:0.149;"
     ><line y2="31" style="fill:none;" x1="73" x2="73" y1="374"
-      /><line y2="31" style="fill:none;" x1="133.8411" x2="133.8411" y1="374"
-      /><line y2="31" style="fill:none;" x1="196.7103" x2="196.7103" y1="374"
-      /><line y2="31" style="fill:none;" x1="257.5514" x2="257.5514" y1="374"
-      /><line y2="31" style="fill:none;" x1="320.4206" x2="320.4206" y1="374"
-      /><line y2="31" style="fill:none;" x1="383.2897" x2="383.2897" y1="374"
-      /><line y2="31" style="fill:none;" x1="444.1308" x2="444.1308" y1="374"
+      /><line y2="31" style="fill:none;" x1="126.3607" x2="126.3607" y1="374"
+      /><line y2="31" style="fill:none;" x1="181.5" x2="181.5" y1="374"
+      /><line y2="31" style="fill:none;" x1="234.8607" x2="234.8607" y1="374"
+      /><line y2="31" style="fill:none;" x1="290" x2="290" y1="374"
+      /><line y2="31" style="fill:none;" x1="345.1393" x2="345.1393" y1="374"
+      /><line y2="31" style="fill:none;" x1="398.5" x2="398.5" y1="374"
+      /><line y2="31" style="fill:none;" x1="453.6393" x2="453.6393" y1="374"
       /><line y2="31" style="fill:none;" x1="507" x2="507" y1="374"
       /><line y2="374" style="fill:none;" x1="507" x2="73" y1="374"
       /><line y2="316.8333" style="fill:none;" x1="507" x2="73" y1="316.8333"
@@ -109,53 +110,59 @@
       /><line x1="73" x2="507" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="374"
       /><line x1="73" x2="507" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="31"
       /><line x1="73" x2="73" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
-      /><line x1="133.8411" x2="133.8411" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
-      /><line x1="196.7103" x2="196.7103" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
-      /><line x1="257.5514" x2="257.5514" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
-      /><line x1="320.4206" x2="320.4206" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
-      /><line x1="383.2897" x2="383.2897" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
-      /><line x1="444.1308" x2="444.1308" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
+      /><line x1="126.3607" x2="126.3607" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
+      /><line x1="181.5" x2="181.5" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
+      /><line x1="234.8607" x2="234.8607" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
+      /><line x1="290" x2="290" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
+      /><line x1="345.1393" x2="345.1393" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
+      /><line x1="398.5" x2="398.5" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
+      /><line x1="453.6393" x2="453.6393" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
       /><line x1="507" x2="507" y1="374" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="369.66"
       /><line x1="73" x2="73" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
-      /><line x1="133.8411" x2="133.8411" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
-      /><line x1="196.7103" x2="196.7103" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
-      /><line x1="257.5514" x2="257.5514" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
-      /><line x1="320.4206" x2="320.4206" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
-      /><line x1="383.2897" x2="383.2897" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
-      /><line x1="444.1308" x2="444.1308" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
+      /><line x1="126.3607" x2="126.3607" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
+      /><line x1="181.5" x2="181.5" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
+      /><line x1="234.8607" x2="234.8607" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
+      /><line x1="290" x2="290" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
+      /><line x1="345.1393" x2="345.1393" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
+      /><line x1="398.5" x2="398.5" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
+      /><line x1="453.6393" x2="453.6393" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
       /><line x1="507" x2="507" y1="31" style="stroke-linecap:square; fill-opacity:1; fill:none; stroke-opacity:1;" y2="35.34"
     /></g
     ><g transform="translate(73,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
     ><text x="-8" xml:space="preserve" y="10" style="stroke:none;"
       >Apr</text
     ></g
-    ><g transform="translate(133.8411,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
+    ><g transform="translate(126.3607,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
     ><text x="-10" xml:space="preserve" y="10" style="stroke:none;"
       >May</text
     ></g
-    ><g transform="translate(196.7103,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
+    ><g transform="translate(181.5,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
     ><text x="-8.5" xml:space="preserve" y="10" style="stroke:none;"
       >Jun</text
     ></g
-    ><g transform="translate(257.5514,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
+    ><g transform="translate(234.8607,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
     ><text x="-6.5" xml:space="preserve" y="10" style="stroke:none;"
       >Jul</text
     ></g
-    ><g transform="translate(320.4206,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
+    ><g transform="translate(290,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
     ><text x="-9" xml:space="preserve" y="10" style="stroke:none;"
       >Aug</text
     ></g
-    ><g transform="translate(383.2897,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
+    ><g transform="translate(345.1393,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
     ><text x="-9" xml:space="preserve" y="10" style="stroke:none;"
       >Sep</text
     ></g
-    ><g transform="translate(444.1308,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
+    ><g transform="translate(398.5,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
     ><text x="-8.5" xml:space="preserve" y="10" style="stroke:none;"
       >Oct</text
     ></g
-    ><g transform="translate(507,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
+    ><g transform="translate(453.6393,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
     ><text x="-9" xml:space="preserve" y="10" style="stroke:none;"
       >Nov</text
+    ></g
+    ><g transform="translate(507,378)" style="font-size:10px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
+    ><text x="-9" xml:space="preserve" y="10" style="stroke:none;"
+      >Dec</text
     ></g
     ><g transform="translate(290.0002,392)" style="font-size:11px; fill:rgb(38,38,38); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; font-family:'Helvetica Neue'; stroke:rgb(38,38,38); color-interpolation:linearRGB;"
     ><text x="-12" xml:space="preserve" y="11" style="stroke:none;"
@@ -220,32 +227,32 @@
       >COVID-19 Death Projection for Ghana</text
     ></g
     ><g style="stroke-linecap:butt; fill:rgb(0,114,189); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(0,114,189); color-interpolation:linearRGB; stroke-width:0.5;"
-    ><path d="M111.5327 363.71 L113.5607 363.71 L115.5888 363.71 L117.6168 363.71 L119.6449 363.71 L121.6729 362.5667 L123.7009 362.5667 L125.729 361.4233 L127.757 361.4233 L129.785 355.7067 L131.8131 355.7067 L133.8411 354.5633 L135.8692 354.5633 L137.8972 353.42 L139.9252 353.42 L141.9533 353.42 L143.9813 353.42 L146.0093 353.42 L148.0374 353.42 L150.0654 353.42 L152.0935 348.8467 L154.1215 348.8467 L156.1495 348.8467 L158.1776 348.8467 L160.2056 346.56 L162.2336 346.56 L164.2617 341.9867 L166.2897 340.8433 L168.3178 340.8433 L170.3458 340.8433 L172.3738 338.5567 L174.4019 338.5567 L176.4299 338.5567 L178.4579 338.5567 L180.486 338.5567 L182.514 337.4133 L184.5421 337.4133 L186.5701 335.1267 L188.5981 335.1267 L190.6262 335.1267 L192.6542 335.1267 L194.6822 333.9833 L196.7103 332.84 L198.7383 332.84 L200.7664 330.5533 L202.7944 330.5533 L204.8224 330.5533 L206.8505 325.98 L208.8785 323.6933 L210.9065 323.6933 L212.9346 319.12 L214.9626 319.12 L216.9907 319.12 L219.0187 319.12 L221.0467 319.12 L223.0748 315.69 L225.1028 312.26 L227.1308 312.26 L229.1589 307.6867 L231.1869 298.54 L233.215 298.54 L235.243 293.9667 L237.271 276.8167 L239.2991 276.8167 L241.3271 276.8167 L243.3551 265.3833 L245.3832 265.3833 L247.4112 265.3833 L249.4393 256.2367 L251.4673 256.2367 L253.4953 245.9467 L255.5234 245.9467 L257.5514 245.9467 L259.5794 240.23 L261.6075 240.23 L263.6355 240.23 L265.6635 240.23 L267.6916 234.5133 L269.7196 226.51 L271.7477 226.51 L273.7757 226.51 L275.8037 226.51 L277.8318 219.65 L279.8598 219.65 L281.8878 215.0767 L283.9159 215.0767 L285.9439 215.0767 L287.972 215.0767 L290 215.0767 L292.028 209.36 L294.0561 208.2167 L296.0841 204.7867 L298.1122 199.07 L300.1402 199.07 L302.1682 199.07 L304.1963 199.07 L306.2243 189.9233 L308.2523 189.9233 L310.2804 181.92 L312.3084 181.92 L314.3365 181.92 L316.3645 173.9167 L318.3925 173.9167 L320.4206 165.9133" style="fill:none; fill-rule:evenodd;"
-      /><path d="M111.5327 364.5724 L115.3317 363.8365 L119.1307 363.0454 L122.9296 362.1954 L126.7286 361.2823 L130.5276 360.3019 L134.3266 359.25 L138.1255 358.1219 L141.9245 356.9127 L145.7235 355.6175 L149.5224 354.231 L153.3214 352.7481 L157.1204 351.1631 L160.9194 349.4706 L164.7183 347.6646 L168.5173 345.7397 L172.3163 343.6898 L176.1153 341.5095 L179.9142 339.1928 L183.7132 336.7345 L187.5122 334.1291 L191.3112 331.3716 L195.1101 328.4575 L198.9091 325.3825 L202.7081 322.143 L206.5071 318.7361 L210.306 315.1594 L214.105 311.4117 L217.904 307.4924 L221.7029 303.4022 L225.5019 299.1429 L229.3009 294.7172 L233.0999 290.1296 L236.8988 285.3854 L240.6978 280.4917 L244.4968 275.4566 L248.2958 270.2899 L252.0947 265.0025 L255.8937 259.6065 L259.6927 254.1155 L263.4917 248.5438 L267.2906 242.9069 L271.0896 237.2208 L274.8886 231.5023 L278.6876 225.7685 L282.4865 220.0367 L286.2855 214.3241 L290.0845 208.6477 L293.8835 203.0243 L297.6824 197.4697 L301.4814 191.9991 L305.2804 186.6268 L309.0793 181.3658 L312.8783 176.2282 L316.6773 171.2246 L320.4763 166.3643 L324.2752 161.6553 L328.0742 157.1042 L331.8732 152.7162 L335.6722 148.4952 L339.4711 144.4439 L343.2701 140.5637 L347.0691 136.8551 L350.8681 133.3173 L354.6671 129.9488 L358.466 126.7471 L362.265 123.7092 L366.064 120.8312 L369.8629 118.1088 L373.6619 115.5374 L377.4609 113.1119 L381.2599 110.8268 L385.0588 108.6767 L388.8578 106.6559 L392.6568 104.7586 L396.4557 102.979 L400.2547 101.3115 L404.0537 99.7503 L407.8527 98.2899 L411.6516 96.9247 L415.4506 95.6496 L419.2496 94.4593 L423.0486 93.3489 L426.8475 92.3137 L430.6465 91.3491 L434.4455 90.4508 L438.2445 89.6145 L442.0434 88.8364 L445.8424 88.1126 L449.6414 87.4397 L453.4404 86.8143 L457.2393 86.2333 L461.0383 85.6936 L464.8373 85.1924 L468.6363 84.7272 L472.4352 84.2954 L476.2342 83.8948 L480.0332 83.5232 L483.8322 83.1785 L487.6311 82.8588 L491.4301 82.5624 L495.2291 82.2877 L499.028 82.033 L502.827 81.797" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
+    ><path d="M106.7951 363.71 L108.5738 363.71 L110.3525 363.71 L112.1311 363.71 L113.9098 363.71 L115.6885 362.5667 L117.4672 362.5667 L119.2459 361.4233 L121.0246 361.4233 L122.8033 355.7067 L124.582 355.7067 L126.3607 354.5633 L128.1393 354.5633 L129.918 353.42 L131.6967 353.42 L133.4754 353.42 L135.2541 353.42 L137.0328 353.42 L138.8115 353.42 L140.5902 353.42 L142.3689 348.8467 L144.1475 348.8467 L145.9262 348.8467 L147.7049 348.8467 L149.4836 346.56 L151.2623 346.56 L153.041 341.9867 L154.8197 340.8433 L156.5984 340.8433 L158.377 340.8433 L160.1557 338.5567 L161.9344 338.5567 L163.7131 338.5567 L165.4918 338.5567 L167.2705 338.5567 L169.0492 337.4133 L170.8279 337.4133 L172.6066 335.1267 L174.3852 335.1267 L176.1639 335.1267 L177.9426 335.1267 L179.7213 333.9833 L181.5 332.84 L183.2787 332.84 L185.0574 330.5533 L186.8361 330.5533 L188.6148 330.5533 L190.3934 325.98 L192.1721 323.6933 L193.9508 323.6933 L195.7295 319.12 L197.5082 319.12 L199.2869 319.12 L201.0656 319.12 L202.8443 319.12 L204.623 315.69 L206.4016 312.26 L208.1803 312.26 L209.959 307.6867 L211.7377 298.54 L213.5164 298.54 L215.2951 293.9667 L217.0738 276.8167 L218.8525 276.8167 L220.6311 276.8167 L222.4098 265.3833 L224.1885 265.3833 L225.9672 265.3833 L227.7459 256.2367 L229.5246 256.2367 L231.3033 245.9467 L233.082 245.9467 L234.8607 245.9467 L236.6393 240.23 L238.418 240.23 L240.1967 240.23 L241.9754 240.23 L243.7541 234.5133 L245.5328 226.51 L247.3115 226.51 L249.0902 226.51 L250.8689 226.51 L252.6475 219.65 L254.4262 219.65 L256.2049 215.0767 L257.9836 215.0767 L259.7623 215.0767 L261.541 215.0767 L263.3197 215.0767 L265.0984 209.36 L266.877 208.2167 L268.6557 204.7867 L270.4344 199.07 L272.2131 199.07 L273.9918 199.07 L275.7705 199.07 L277.5492 189.9233 L279.3279 189.9233 L281.1066 181.92 L282.8853 181.92 L284.6639 181.92 L286.4426 173.9167 L288.2213 173.9167 L290 165.9133 L291.7787 165.9133 L293.5574 165.9133 L295.3361 155.6233" style="fill:none; fill-rule:evenodd;"
+      /><path d="M106.7951 363.9621 L110.1443 363.2035 L113.4934 362.3898 L116.8426 361.5173 L120.1918 360.5822 L123.5409 359.5805 L126.8901 358.5078 L130.2393 357.3599 L133.5885 356.1321 L136.9376 354.8196 L140.2868 353.4176 L143.636 351.9208 L146.9851 350.3241 L150.3343 348.6221 L153.6835 346.8093 L157.0327 344.8804 L160.3818 342.8297 L163.731 340.6518 L167.0802 338.3412 L170.4293 335.8925 L173.7785 333.3007 L177.1277 330.5608 L180.4769 327.6683 L183.826 324.6188 L187.1752 321.4088 L190.5244 318.0349 L193.8735 314.4946 L197.2227 310.7862 L200.5719 306.9087 L203.9211 302.862 L207.2702 298.6471 L210.6194 294.2658 L213.9686 289.7215 L217.3177 285.0184 L220.6669 280.1621 L224.0161 275.1594 L227.3652 270.0186 L230.7144 264.7489 L234.0636 259.361 L237.4128 253.8667 L240.7619 248.2787 L244.1111 242.6111 L247.4603 236.8784 L250.8094 231.096 L254.1586 225.28 L257.5078 219.4466 L260.857 213.6124 L264.2061 207.794 L267.5553 202.0076 L270.9045 196.2694 L274.2536 190.5948 L277.6028 184.9985 L280.952 179.4945 L284.3011 174.0957 L287.6503 168.8141 L290.9995 163.6603 L294.3487 158.6438 L297.6978 153.773 L301.047 149.0548 L304.3962 144.4948 L307.7454 140.0976 L311.0945 135.8664 L314.4437 131.8033 L317.7929 127.9093 L321.1421 124.1846 L324.4912 120.6281 L327.8404 117.2381 L331.1896 114.0123 L334.5387 110.9474 L337.8879 108.0398 L341.2371 105.2852 L344.5862 102.6793 L347.9354 100.217 L351.2846 97.8932 L354.6338 95.7026 L357.9829 93.6398 L361.3321 91.6993 L364.6813 89.8755 L368.0305 88.163 L371.3796 86.5563 L374.7288 85.0501 L378.0779 83.639 L381.4271 82.3181 L384.7763 81.0822 L388.1255 79.9268 L391.4746 78.847 L394.8238 77.8386 L398.173 76.8972 L401.5222 76.0188 L404.8713 75.1996 L408.2205 74.4357 L411.5697 73.7239 L414.9188 73.0608 L418.268 72.4431 L421.6172 71.8681 L424.9663 71.3328 L428.3155 70.8347 L431.6647 70.3713 L435.0139 69.9403 L438.363 69.5395 L441.7122 69.1669 L445.0614 68.8205 L448.4106 68.4986 L451.7597 68.1994 L455.1089 67.9214 L458.4581 67.6631 L461.8073 67.4233" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
     /></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="226.4227" style="fill:none;" x1="278.2542" x2="278.2542" y1="374"
+    ><line y2="219.1633" style="fill:none;" x1="257.6703" x2="257.6703" y1="374"
     /></g
-    ><g transform="translate(278.2542,226.4227)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(257.6703,219.1633)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-9.5" style="stroke:none;"
       >Inflection Point</text
     ></g
-    ><g transform="translate(278.2542,226.4227)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(257.6703,219.1633)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="3.5" style="stroke:none;"
-      >11-Jul-2020 04:59:57</text
+      >13-Jul-2020 19:46:24</text
       ><text x="0" xml:space="preserve" y="16.5" style="stroke:none;"
-      >2.6781 deaths per day</text
+      >2.7111 deaths per day</text
     ></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="78.8455" style="fill:none;" x1="111.5327" x2="502.827" y1="78.8455"
+    ><line y2="64.3266" style="fill:none;" x1="106.7951" x2="461.8073" y1="64.3266"
     /></g
-    ><g transform="translate(307.1799,78.8455)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(284.3011,64.3266)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-3" style="stroke:none;"
       ></text
     ></g
-    ><g transform="translate(307.1799,78.8455)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(284.3011,64.3266)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="10" style="stroke:none;"
-      >Predicted Count: 258.1526 Total Deaths</text
+      >Predicted Count: 270.8514 Total Deaths</text
     ></g
     ><g style="fill:white; text-rendering:optimizeSpeed; color-rendering:optimizeSpeed; image-rendering:optimizeSpeed; shape-rendering:crispEdges; stroke:white; color-interpolation:sRGB;"
     ><path style="stroke:none;" d="M499 366 L499 339 L417 339 L417 366 Z"
