@@ -2,9 +2,9 @@
 close all;
 clearvars;
 
-url = "https://opendata.ecdc.europa.eu/covid19/casedistribution/json/";
-save_filename = "./covid.json";
-save_fullname = websave(save_filename,url);
+% url = "https://opendata.ecdc.europa.eu/covid19/casedistribution/json/";
+% save_filename = "./covid.json";
+% save_fullname = websave(save_filename,url);
 
 
 MIN_INF_THRESH = 1000;
@@ -148,8 +148,14 @@ for fit_index = 1:length(CountriesToTrack)
     params_k = params(2);
     params_h = params(3);
     
+    
+    % Use exponential model, fitted via linearization, as St.
+    [exp_model_alpha,exp_model_beta,exp_model_mu] = ExponentialFit(dx,dy);
+    dx_hat = (dx-exp_model_mu(1))/exp_model_mu(2);
+    model_dy = exp_model_alpha*exp(exp_model_beta*dx_hat);
+    
     Sr = CF(params,0);
-    St = sum((dy-mean(dy)).^2);
+    St = sum((dy - model_dy ).^2);
     r2 = (St-Sr)/St;
     
     
