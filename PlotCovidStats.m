@@ -202,6 +202,7 @@ for fit_index = 1:length(CountriesToTrack)
     grid on;
     figure(ff);
     print(PLOT_DIR_NAME + country_to_fit,"-dsvg");
+    close(ff);
 end
 
 [success,msg,msgid] = rmdir(LATEST_DIR_NAME,'s');
