@@ -45,14 +45,7 @@ See graphs for all qualifying countries [here](./Latest)
 * Internet connection
 
 ## Instructions
-1. Download the latest COVID-19 statistics from [opendata](https://opendata.ecdc.europa.eu/covid19/casedistribution/json)
-In a terminal, type
-```bash
-wget -O covid.json https://opendata.ecdc.europa.eu/covid19/casedistribution/json/
-```
-2. Run PlotCovidStats.m in MATLAB
-
-
+1. Run PlotCovidStats.m in MATLAB
 
 ## TODO
 * Make this run in Octave and MATLAB
