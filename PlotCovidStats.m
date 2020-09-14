@@ -4,7 +4,11 @@ clearvars;
 
 url = "https://opendata.ecdc.europa.eu/covid19/casedistribution/json/";
 save_filename = "./covid.json";
-save_fullname = websave(save_filename,url);
+
+opendata_options = weboptions;
+opendata_options.Timeout = 10;
+save_fullname = websave(save_filename,url,opendata_options);
+
 
 
 MIN_INF_THRESH = 1000;
