@@ -232,32 +232,32 @@
       >COVID-19 Death Projection for Liberia</text
     ></g
     ><g style="stroke-linecap:butt; fill:rgb(0,114,189); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(0,114,189); color-interpolation:linearRGB; stroke-width:0.5;"
-    ><path d="M145.3333 179.6333 L150.5 179.6333 L155.6667 179.6333 L160.8333 122.4667 L166 114.8444 L171.1667 111.0333 L176.3333 107.2222 L181.5 107.2222 L186.6667 107.2222 L191.8333 107.2222 L197 107.2222 L202.1667 103.4111 L207.3333 103.4111 L212.5 103.4111 L217.6667 99.6 L222.8333 99.6 L228 99.6 L233.1667 99.6 L238.3333 95.7889 L243.5 88.1667 L248.6667 88.1667 L253.8333 80.5444 L259 76.7333 L264.1667 76.7333 L269.3333 76.7333 L274.5 76.7333 L279.6667 76.7333 L284.8333 72.9222 L290 72.9222 L295.1667 72.9222 L300.3333 65.3 L305.5 61.4889 L310.6667 61.4889 L315.8333 61.4889 L321 61.4889 L326.1667 61.4889 L331.3333 61.4889 L336.5 61.4889 L341.6667 61.4889 L346.8333 61.4889 L352 61.4889 L357.1667 61.4889 L362.3333 61.4889 L367.5 61.4889 L372.6667 61.4889 L377.8333 61.4889 L383 61.4889 L388.1667 61.4889 L393.3333 61.4889 L398.5 61.4889 L403.6667 61.4889 L408.8333 61.4889 L414 61.4889 L419.1667 61.4889 L424.3333 61.4889 L429.5 61.4889 L434.6667 61.4889 L439.8333 61.4889 L445 61.4889 L450.1667 61.4889 L455.3333 61.4889 L460.5 61.4889 L465.6667 61.4889 L470.8333 61.4889 L476 61.4889" style="fill:none; fill-rule:evenodd;"
-      /><path d="M145.3333 163.4644 L150.5 156.6868 L155.6667 150.1664 L160.8333 143.9193 L166 137.958 L171.1667 132.2909 L176.3333 126.923 L181.5 121.8559 L186.6667 117.0881 L191.8333 112.6155 L197 108.4319 L202.1667 104.5291 L207.3333 100.8971 L212.5 97.5252 L217.6667 94.4012 L222.8333 91.5129 L228 88.8474 L233.1667 86.3915 L238.3333 84.1325 L243.5 82.0575 L248.6667 80.1541 L253.8333 78.4101 L259 76.814 L264.1667 75.3548 L269.3333 74.0219 L274.5 72.8055 L279.6667 71.6962 L284.8333 70.6854 L290 69.7648 L295.1667 68.927 L300.3333 68.1648 L305.5 67.4718 L310.6667 66.842 L315.8333 66.2699 L321 65.7503 L326.1667 65.2786 L331.3333 64.8505 L336.5 64.4622 L341.6667 64.1099 L346.8333 63.7904 L352 63.5007 L357.1667 63.2381 L362.3333 63.0001 L367.5 62.7844 L372.6667 62.589 L377.8333 62.4119 L383 62.2515 L388.1667 62.1062 L393.3333 61.9746 L398.5 61.8555 L403.6667 61.7476 L408.8333 61.6498 L414 61.5613 L419.1667 61.4812 L424.3333 61.4087 L429.5 61.343 L434.6667 61.2836 L439.8333 61.2298 L445 61.1811 L450.1667 61.137 L455.3333 61.0971 L460.5 61.061 L465.6667 61.0283 L470.8333 60.9987 L476 60.9719" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
+    ><path d="M145.3333 179.6333 L150.5 179.6333 L155.6667 179.6333 L160.8333 122.4667 L166 114.8444 L171.1667 111.0333 L176.3333 107.2222 L181.5 107.2222 L186.6667 107.2222 L191.8333 107.2222 L197 107.2222 L202.1667 103.4111 L207.3333 103.4111 L212.5 103.4111 L217.6667 99.6 L222.8333 99.6 L228 99.6 L233.1667 99.6 L238.3333 95.7889 L243.5 88.1667 L248.6667 88.1667 L253.8333 80.5444 L259 76.7333 L264.1667 76.7333 L269.3333 76.7333 L274.5 76.7333 L279.6667 76.7333 L284.8333 72.9222 L290 72.9222 L295.1667 72.9222 L300.3333 65.3 L305.5 61.4889 L310.6667 61.4889 L315.8333 61.4889 L321 61.4889 L326.1667 61.4889 L331.3333 61.4889 L336.5 61.4889 L341.6667 61.4889 L346.8333 61.4889 L352 61.4889 L357.1667 61.4889 L362.3333 61.4889 L367.5 61.4889 L372.6667 61.4889 L377.8333 61.4889 L383 61.4889 L388.1667 61.4889 L393.3333 61.4889 L398.5 61.4889 L403.6667 61.4889 L408.8333 61.4889 L414 61.4889 L419.1667 61.4889 L424.3333 61.4889 L429.5 61.4889 L434.6667 61.4889 L439.8333 61.4889 L445 61.4889 L450.1667 61.4889 L455.3333 61.4889 L460.5 61.4889 L465.6667 61.4889 L470.8333 61.4889 L476 61.4889 L481.1667 61.4889 L486.3333 61.4889 L491.5 61.4889" style="fill:none; fill-rule:evenodd;"
+      /><path d="M145.3333 163.4974 L150.5 156.7089 L155.6667 150.1785 L160.8333 143.9226 L166 137.9535 L171.1667 132.2799 L176.3333 126.9065 L181.5 121.835 L186.6667 117.0638 L191.8333 112.5889 L197 108.4039 L202.1667 104.5005 L207.3333 100.8687 L212.5 97.4975 L217.6667 94.375 L222.8333 91.4886 L228 88.8253 L233.1667 86.3721 L238.3333 84.116 L243.5 82.0441 L248.6667 80.1439 L253.8333 78.4033 L259 76.8107 L264.1667 75.3549 L269.3333 74.0255 L274.5 72.8125 L279.6667 71.7066 L284.8333 70.699 L290 69.7816 L295.1667 68.9468 L300.3333 68.1875 L305.5 67.4974 L310.6667 66.8703 L315.8333 66.3007 L321 65.7836 L326.1667 65.3142 L331.3333 64.8883 L336.5 64.502 L341.6667 64.1517 L346.8333 63.834 L352 63.5461 L357.1667 63.2851 L362.3333 63.0486 L367.5 62.8343 L372.6667 62.6402 L377.8333 62.4643 L383 62.3051 L388.1667 62.1609 L393.3333 62.0303 L398.5 61.912 L403.6667 61.805 L408.8333 61.708 L414 61.6203 L419.1667 61.5409 L424.3333 61.469 L429.5 61.4039 L434.6667 61.345 L439.8333 61.2917 L445 61.2435 L450.1667 61.1998 L455.3333 61.1603 L460.5 61.1245 L465.6667 61.0922 L470.8333 61.0629 L476 61.0364 L481.1667 61.0124 L486.3333 60.9907 L491.5 60.9711" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
     /></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="217.3584" style="fill:none;" x1="108.2406" x2="108.2406" y1="374"
+    ><line y2="217.3923" style="fill:none;" x1="108.303" x2="108.303" y1="374"
     /></g
-    ><g transform="translate(108.2406,217.3584)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(108.303,217.3923)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-9.5" style="stroke:none;"
       >Inflection Point</text
     ></g
-    ><g transform="translate(108.2406,217.3584)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(108.303,217.3923)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="3.5" style="stroke:none;"
-      >05-Jul-2020 19:41:54</text
+      >05-Jul-2020 19:59:16</text
       ><text x="0" xml:space="preserve" y="16.5" style="stroke:none;"
-      >2.0535 deaths per day</text
+      >2.057 deaths per day</text
     ></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="60.7169" style="fill:none;" x1="145.3333" x2="476" y1="60.7169"
+    ><line y2="60.7846" style="fill:none;" x1="145.3333" x2="491.5" y1="60.7846"
     /></g
-    ><g transform="translate(310.6667,60.7169)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(318.4167,60.7846)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-3" style="stroke:none;"
       ></text
     ></g
-    ><g transform="translate(310.6667,60.7169)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(318.4167,60.7846)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="10" style="stroke:none;"
-      >Predicted Count: 82.2026 Total Deaths</text
+      >Predicted Count: 82.1848 Total Deaths</text
     ></g
     ><g style="fill:white; text-rendering:optimizeSpeed; color-rendering:optimizeSpeed; image-rendering:optimizeSpeed; shape-rendering:crispEdges; stroke:white; color-interpolation:sRGB;"
     ><path style="stroke:none;" d="M499 366 L499 339 L417 339 L417 366 Z"

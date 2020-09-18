@@ -43,10 +43,12 @@
         /><glyph unicode="n" horiz-adv-x="55.6" d="M6.4 51.7 L6.4 0 L14.9 0 L14.9 29.2 Q14.9 32.7 15.85 35.65 Q16.8 38.6 18.7 40.8 Q20.6 43 23.45 44.2 Q26.3 45.4 30.2 45.4 Q35.1 45.4 37.9 42.6 Q40.7 39.8 40.7 35 L40.7 0 L49.2 0 L49.2 34 Q49.2 38.2 48.35 41.65 Q47.5 45.1 45.4 47.6 Q43.3 50.1 39.9 51.5 Q36.5 52.9 31.4 52.9 Q19.9 52.9 14.6 43.5 L14.4 43.5 L14.4 51.7 Z"
         /><glyph unicode="I" horiz-adv-x="25.9" d="M8.2 71.4 L8.2 0 L17.7 0 L17.7 71.4 Z"
         /><glyph unicode=":" horiz-adv-x="27.8" d="M19.4 40.6 L19.4 51.7 L8.3 51.7 L8.3 40.6 ZM8.3 11.1 L8.3 0 L19.4 0 L19.4 11.1 Z"
+        /><glyph unicode="3" horiz-adv-x="55.6" d="M21.8 40.5 L21.8 33.3 Q24.2 33.6 26.9 33.6 Q30.1 33.6 32.85 32.75 Q35.6 31.9 37.6 30.15 Q39.6 28.4 40.8 25.85 Q42 23.3 42 20 Q42 16.8 40.75 14.25 Q39.5 11.7 37.4 9.95 Q35.3 8.2 32.5 7.25 Q29.7 6.3 26.6 6.3 Q19.3 6.3 15.5 10.65 Q11.7 15 11.5 21.9 L3 21.9 Q2.9 16.4 4.55 12.1 Q6.2 7.8 9.3 4.85 Q12.4 1.9 16.8 0.4 Q21.2 -1.1 26.6 -1.1 Q31.6 -1.1 36.05 0.25 Q40.5 1.6 43.8 4.3 Q47.1 7 49.05 11.05 Q51 15.1 51 20.4 Q51 26.8 47.85 31.5 Q44.7 36.2 38.2 37.6 L38.2 37.8 Q42.4 39.7 45.2 43.4 Q48 47.1 48 51.9 Q48 56.8 46.35 60.4 Q44.7 64 41.8 66.3 Q38.9 68.6 34.95 69.75 Q31 70.9 26.4 70.9 Q21.1 70.9 17.05 69.2 Q13 67.5 10.3 64.5 Q7.6 61.5 6.15 57.3 Q4.7 53.1 4.5 48 L13 48 Q13 51.1 13.8 53.9 Q14.6 56.7 16.25 58.8 Q17.9 60.9 20.45 62.15 Q23 63.4 26.4 63.4 Q31.8 63.4 35.4 60.55 Q39 57.7 39 52 Q39 49.2 37.9 47 Q36.8 44.8 34.95 43.35 Q33.1 41.9 30.65 41.15 Q28.2 40.4 25.5 40.4 L23.7 40.4 Q23.2 40.4 22.7 40.4 Q22.3 40.4 21.8 40.5 Z"
         /><glyph unicode="-" horiz-adv-x="38.9" d="M5 31.8 L5 23.8 L33.9 23.8 L33.9 31.8 Z"
         /><glyph unicode="y" horiz-adv-x="50.0" d="M26.7 -6.9 Q25.2 -10.7 23.75 -13.3 Q22.3 -15.9 20.55 -17.55 Q18.8 -19.2 16.65 -19.95 Q14.5 -20.7 11.7 -20.7 Q10.2 -20.7 8.7 -20.5 Q7.2 -20.3 5.8 -19.8 L5.8 -12 Q6.9 -12.5 8.35 -12.85 Q9.8 -13.2 10.8 -13.2 Q13.4 -13.2 15.15 -11.95 Q16.9 -10.7 17.8 -8.4 L21.3 0.3 L0.8 51.7 L10.4 51.7 L25.5 9.4 L25.7 9.4 L40.2 51.7 L49.2 51.7 Z"
         /><glyph unicode="r" horiz-adv-x="33.3" d="M6.1 51.7 L6.1 0 L14.6 0 L14.6 23 Q14.6 28 15.6 31.85 Q16.6 35.7 18.8 38.4 Q21 41.1 24.6 42.5 Q28.2 43.9 33.3 43.9 L33.3 52.9 Q26.4 53.1 21.9 50.1 Q17.4 47.1 14.3 40.8 L14.1 40.8 L14.1 51.7 Z"
         /><glyph unicode="d" horiz-adv-x="59.3" d="M12.6 25.4 Q12.6 29.2 13.4 32.8 Q14.2 36.4 16 39.2 Q17.8 42 20.8 43.7 Q23.8 45.4 28.1 45.4 Q32.5 45.4 35.6 43.75 Q38.7 42.1 40.65 39.4 Q42.6 36.7 43.5 33.15 Q44.4 29.6 44.4 25.8 Q44.4 22.2 43.55 18.7 Q42.7 15.2 40.8 12.45 Q38.9 9.7 35.9 8 Q32.9 6.3 28.6 6.3 Q24.5 6.3 21.45 7.9 Q18.4 9.5 16.45 12.2 Q14.5 14.9 13.55 18.35 Q12.6 21.8 12.6 25.4 ZM52.6 0 L52.6 71.4 L44.1 71.4 L44.1 44.8 L43.9 44.8 Q42.5 47.1 40.45 48.65 Q38.4 50.2 36.1 51.15 Q33.8 52.1 31.5 52.5 Q29.2 52.9 27.2 52.9 Q21.3 52.9 16.85 50.75 Q12.4 48.6 9.45 44.95 Q6.5 41.3 5.05 36.4 Q3.6 31.5 3.6 26 Q3.6 20.5 5.1 15.6 Q6.6 10.7 9.55 7 Q12.5 3.3 16.95 1.1 Q21.4 -1.1 27.4 -1.1 Q32.8 -1.1 37.3 0.8 Q41.8 2.7 43.9 7 L44.1 7 L44.1 0 Z"
+        /><glyph unicode="7" horiz-adv-x="55.6" d="M50.9 62.4 L50.9 69.7 L5 69.7 L5 61.7 L42.2 61.7 Q36.6 55.8 31.75 48.8 Q26.9 41.8 23.2 33.95 Q19.5 26.1 17.15 17.55 Q14.8 9 14.2 0 L23.7 0 Q24.2 8.3 26.5 17.1 Q28.8 25.9 32.45 34.2 Q36.1 42.5 40.8 49.8 Q45.5 57.1 50.9 62.4 Z"
         /><glyph unicode="." horiz-adv-x="27.8" d="M8.3 11.1 L8.3 0 L19.4 0 L19.4 11.1 Z"
         /><glyph unicode="T" horiz-adv-x="57.4" d="M24 63.4 L24 0 L33.5 0 L33.5 63.4 L57.3 63.4 L57.3 71.4 L0.2 71.4 L0.2 63.4 Z"
       /></font
@@ -209,32 +211,32 @@
       >COVID-19 Death Projection for Gambia</text
     ></g
     ><g style="stroke-linecap:butt; fill:rgb(0,114,189); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(0,114,189); color-interpolation:linearRGB; stroke-width:0.5;"
-    ><path d="M73 319.6917 L83.3333 319.6917 L93.6667 308.2583 L104 308.2583 L114.3333 282.5333 L124.6667 279.675 L135 251.0917 L145.3333 231.0833 L155.6667 219.65 L166 193.925 L176.3333 193.925 L186.6667 193.925 L197 153.9083 L207.3333 142.475 L217.6667 133.9 L228 133.9 L238.3333 133.9 L248.6667 125.325 L259 116.75 L269.3333 108.175 L279.6667 108.175 L290 99.6 L300.3333 99.6 L310.6667 99.6 L321 99.6 L331.3333 99.6 L341.6667 96.7417 L352 91.025 L362.3333 91.025 L372.6667 91.025 L383 91.025 L393.3333 91.025 L403.6667 91.025 L414 91.025 L424.3333 88.1667 L434.6667 88.1667 L445 82.45 L455.3333 79.5917 L465.6667 79.5917" style="fill:none; fill-rule:evenodd;"
-      /><path d="M73 327.9191 L83.3333 318.668 L93.6667 308.0706 L104 296.1295 L114.3333 282.9219 L124.6667 268.6099 L135 253.4419 L145.3333 237.7403 L155.6667 221.8771 L166 206.2398 L176.3333 191.1945 L186.6667 177.0525 L197 164.0481 L207.3333 152.329 L217.6667 141.9587 L228 132.9291 L238.3333 125.1765 L248.6667 118.6004 L259 113.0792 L269.3333 108.4835 L279.6667 104.6855 L290 101.5654 L300.3333 99.0146 L310.6667 96.9377 L321 95.252 L331.3333 93.8875 L341.6667 92.7853 L352 91.8965 L362.3333 91.1809 L372.6667 90.6053 L383 90.1427 L393.3333 89.7713 L403.6667 89.4731 L414 89.234 L424.3333 89.0423 L434.6667 88.8886 L445 88.7654 L455.3333 88.6667 L465.6667 88.5876" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
+    ><path d="M73 319.6917 L83.3333 319.6917 L93.6667 308.2583 L104 308.2583 L114.3333 282.5333 L124.6667 279.675 L135 251.0917 L145.3333 231.0833 L155.6667 219.65 L166 193.925 L176.3333 193.925 L186.6667 193.925 L197 153.9083 L207.3333 142.475 L217.6667 133.9 L228 133.9 L238.3333 133.9 L248.6667 125.325 L259 116.75 L269.3333 108.175 L279.6667 108.175 L290 99.6 L300.3333 99.6 L310.6667 99.6 L321 99.6 L331.3333 99.6 L341.6667 96.7417 L352 91.025 L362.3333 91.025 L372.6667 91.025 L383 91.025 L393.3333 91.025 L403.6667 91.025 L414 91.025 L424.3333 88.1667 L434.6667 88.1667 L445 82.45 L455.3333 79.5917 L465.6667 79.5917 L476 73.875 L486.3333 68.1583 L496.6667 68.1583" style="fill:none; fill-rule:evenodd;"
+      /><path d="M73 326.3624 L83.3333 317.1981 L93.6667 306.7616 L104 295.0592 L114.3333 282.163 L124.6667 268.2203 L135 253.4542 L145.3333 238.1541 L155.6667 222.6553 L166 207.3112 L176.3333 192.4612 L186.6667 178.4016 L197 165.3646 L207.3333 153.5072 L217.6667 142.9105 L228 133.5884 L238.3333 125.5003 L248.6667 118.5668 L259 112.6841 L269.3333 107.7365 L279.6667 103.6059 L290 100.1786 L300.3333 97.3493 L310.6667 95.0236 L321 93.1184 L331.3333 91.5622 L341.6667 90.2939 L352 89.2623 L362.3333 88.4245 L372.6667 87.7449 L383 87.1942 L393.3333 86.7484 L403.6667 86.3876 L414 86.0959 L424.3333 85.8601 L434.6667 85.6695 L445 85.5156 L455.3333 85.3913 L465.6667 85.291 L476 85.2099 L486.3333 85.1445 L496.6667 85.0917" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
     /></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="231.1348" style="fill:none;" x1="149.6345" x2="149.6345" y1="374"
+    ><line y2="229.4355" style="fill:none;" x1="151.1474" x2="151.1474" y1="374"
     /></g
-    ><g transform="translate(149.6345,231.1348)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(151.1474,229.4355)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-9.5" style="stroke:none;"
       >Inflection Point</text
     ></g
-    ><g transform="translate(149.6345,231.1348)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(151.1474,229.4355)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="3.5" style="stroke:none;"
-      >15-Aug-2020 09:59:22</text
+      >15-Aug-2020 13:30:13</text
       ><text x="0" xml:space="preserve" y="16.5" style="stroke:none;"
-      >5.556 deaths per day</text
+      >5.4277 deaths per day</text
     ></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="88.2695" style="fill:none;" x1="73" x2="465.6667" y1="88.2695"
+    ><line y2="84.871" style="fill:none;" x1="73" x2="496.6667" y1="84.871"
     /></g
-    ><g transform="translate(269.3333,88.2695)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(284.8333,84.871)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-3" style="stroke:none;"
       ></text
     ></g
-    ><g transform="translate(269.3333,88.2695)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(284.8333,84.871)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="10" style="stroke:none;"
-      >Predicted Count: 99.964 Total Deaths</text
+      >Predicted Count: 101.153 Total Deaths</text
     ></g
     ><g style="fill:white; text-rendering:optimizeSpeed; color-rendering:optimizeSpeed; image-rendering:optimizeSpeed; shape-rendering:crispEdges; stroke:white; color-interpolation:sRGB;"
     ><path style="stroke:none;" d="M499 366 L499 339 L417 339 L417 366 Z"
