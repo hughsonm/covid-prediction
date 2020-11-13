@@ -1,3 +1,4 @@
+See graphs for all qualifying countries [here](./Latest/README.md)
 # Max's COVID-19 Prediction Script
 This script attempts to predict a lower bound on the impact of COVID-19, based off of currently-available data.
 
@@ -16,7 +17,6 @@ This script assumes that people will maintain a constant level of infection-cont
 That assumption is not true. All of these measures will eventually stop. Therefore, the predicted death tolls reported here are a **lower bound** on the total number of deaths that will be observed.
 
 ## Graphs
-See graphs for all qualifying countries [here](./Latest)
 ![Cases Since Threshold](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/SinceThresh.svg)
 ![Deaths By Date](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/ConfDeaths.svg)
 
