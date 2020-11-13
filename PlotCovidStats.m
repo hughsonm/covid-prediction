@@ -17,7 +17,7 @@ DATE_FORMAT = 30;
 LIN_SEARCH_PTS_PER_DIM = 100;
 LIN_SEARCH_SCALE = 5;
 MIN_POP_FOR_JOINED_PLOTS = 30e6;
-PLOT_DIR_NAME = "Plots/" + datestr(now,DATE_FORMAT) + "/";
+PLOT_DIR_NAME = fullfile("Plots" , datestr(now,DATE_FORMAT));
 LATEST_DIR_NAME = "Latest/";
 
 CountriesToTrack = fileread("CountriesToTrack.txt");
@@ -29,7 +29,7 @@ CountriesToTrack = string(CountriesToTrack(1:end-1));
 %% Prepare Output Directory
 mkdir(PLOT_DIR_NAME);
 
-log_fid = fopen(PLOT_DIR_NAME + "log.txt","w");
+log_fid = fopen(fullfile(PLOT_DIR_NAME, "log.txt"),"w");
 
 
 %% Read in data from json-formatted source
@@ -67,7 +67,7 @@ grid on;
 
 set(conf_case_fig,"WindowState","maximized");
 figure(conf_case_fig);
-print(PLOT_DIR_NAME + "ConfCases","-dsvg");
+print(fullfile(PLOT_DIR_NAME,"ConfCases"),"-dsvg");
 
 conf_death_fig = figure();
 set(conf_death_fig,'Name','Confirmed Deaths');
@@ -96,7 +96,7 @@ grid on;
 
 set(conf_death_fig,"WindowState","maximized");
 figure(conf_death_fig);
-print(PLOT_DIR_NAME + "ConfDeaths","-dsvg");
+print(fullfile(PLOT_DIR_NAME,"ConfDeaths"),"-dsvg");
 
 since_thresh_fig = figure();
 set(since_thresh_fig,'Name',"Cases After " + num2str(MIN_INF_THRESH));
@@ -132,7 +132,7 @@ grid on;
 
 set(since_thresh_fig,"WindowState","maximized");
 figure(since_thresh_fig);
-print(PLOT_DIR_NAME + "SinceThresh","-dsvg");
+print(fullfile(PLOT_DIR_NAME,"SinceThresh"),"-dsvg");
 
 for fit_index = 1:length(CountriesToTrack)
     country_to_fit = CountriesToTrack(fit_index);
@@ -205,7 +205,7 @@ for fit_index = 1:length(CountriesToTrack)
     ylabel("Cumulative Deaths");
     grid on;
     figure(ff);
-    print(PLOT_DIR_NAME + country_to_fit,"-dsvg");
+    print(fullfile(PLOT_DIR_NAME,country_to_fit),"-dsvg");
     close(ff);
 end
 
@@ -214,6 +214,8 @@ mkdir(LATEST_DIR_NAME);
 copyfile(PLOT_DIR_NAME,LATEST_DIR_NAME);
 
 fclose(log_fid);
+
+MakeLatestMarkdown("Latest");
 
 function opt_params = FindOptimalParameters(dx,dy,scale,n_search_pts)
 search_alphas = max(dy)*10.^(linspace(0,scale,n_search_pts))';
