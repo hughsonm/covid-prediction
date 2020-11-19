@@ -193,30 +193,30 @@
       >COVID-19 Death Projection for Curaçao</text
     ></g
     ><g style="stroke-linecap:butt; fill:rgb(0,114,189); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(0,114,189); color-interpolation:linearRGB; stroke-width:0.5;"
-    ><path d="M73 236.8 L101.9333 99.6 L130.8667 99.6 L159.8 99.6 L188.7333 99.6 L217.6667 99.6 L246.6 99.6 L275.5333 99.6 L304.4667 99.6 L333.4 99.6 L362.3333 99.6 L391.2667 99.6 L420.2 99.6 L449.1333 99.6 L478.0667 99.6" style="fill:none; fill-rule:evenodd;"
-      /><path d="M73 236.7991 L101.9333 99.825 L130.8667 99.5829 L159.8 99.5827 L188.7333 99.5827 L217.6667 99.5827 L246.6 99.5827 L275.5333 99.5827 L304.4667 99.5827 L333.4 99.5827 L362.3333 99.5827 L391.2667 99.5827 L420.2 99.5827 L449.1333 99.5827 L478.0667 99.5827" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
+    ><path d="M73 236.8 L101.9333 99.6 L130.8667 99.6 L159.8 99.6 L188.7333 99.6 L217.6667 99.6 L246.6 99.6 L275.5333 99.6 L304.4667 99.6 L333.4 99.6 L362.3333 99.6 L391.2667 99.6 L420.2 99.6 L449.1333 99.6 L478.0667 99.6 L507 99.6" style="fill:none; fill-rule:evenodd;"
+      /><path d="M73 236.7991 L101.9333 99.8179 L130.8667 99.5846 L159.8 99.5844 L188.7333 99.5844 L217.6667 99.5844 L246.6 99.5844 L275.5333 99.5844 L304.4667 99.5844 L333.4 99.5844 L362.3333 99.5844 L391.2667 99.5844 L420.2 99.5844 L449.1333 99.5844 L478.0667 99.5844 L507 99.5844" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
     /></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="236.7914" style="fill:none;" x1="73.0005" x2="73.0005" y1="374"
+    ><line y2="236.7922" style="fill:none;" x1="73.0004" x2="73.0004" y1="374"
     /></g
-    ><g transform="translate(73.0005,236.7914)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(73.0004,236.7922)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-9.5" style="stroke:none;"
       >Inflection Point</text
     ></g
-    ><g transform="translate(73.0005,236.7914)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(73.0004,236.7922)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="3.5" style="stroke:none;"
       >04-Nov-2020 00:00:01</text
       ><text x="0" xml:space="preserve" y="16.5" style="stroke:none;"
-      >3.516 deaths per day</text
+      >3.5346 deaths per day</text
     ></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="99.5827" style="fill:none;" x1="73" x2="478.0667" y1="99.5827"
+    ><line y2="99.5844" style="fill:none;" x1="73" x2="507" y1="99.5844"
     /></g
-    ><g transform="translate(275.5333,99.5827)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(290,99.5844)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-3" style="stroke:none;"
       ></text
     ></g
-    ><g transform="translate(275.5333,99.5827)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(290,99.5844)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="10" style="stroke:none;"
       >Predicted Count: 2.0001 Total Deaths</text
     ></g
