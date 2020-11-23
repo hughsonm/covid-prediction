@@ -89,6 +89,7 @@
 ![Lebanon](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Lebanon.svg)
 ![Liberia](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Liberia.svg)
 ![Libya](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Libya.svg)
+![Liechtenstein](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Liechtenstein.svg)
 ![Lithuania](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Lithuania.svg)
 ![Luxembourg](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Luxembourg.svg)
 ![Madagascar](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Madagascar.svg)
