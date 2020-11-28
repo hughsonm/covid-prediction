@@ -135,6 +135,7 @@
 ![Sierra_Leone](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Sierra_Leone.svg)
 ![SinceThresh](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/SinceThresh.svg)
 ![Singapore](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Singapore.svg)
+![Sint_Maarten](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Sint_Maarten.svg)
 ![Slovakia](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Slovakia.svg)
 ![Slovenia](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Slovenia.svg)
 ![Somalia](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Somalia.svg)
