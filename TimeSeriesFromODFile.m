@@ -2,6 +2,8 @@ function TimeSeries = TimeSeriesFromODFile(filename,countries_to_track)
 covid_text = fileread(filename);
 C = jsondecode(covid_text);
 
+weekly_switch_date = datetime("14/12/2020",'InputFormat',"dd/MM/yyyy");
+
 for cc = 1:length(countries_to_track)
     ts.name = countries_to_track(cc);
     ts.dates = NaT(0,0);
@@ -26,12 +28,17 @@ for ii = 1:length(C.records)
         end
     end    
     if(tracking_this_country)
-        rec_case_num = (iRec.cases);
-        rec_death_num = (iRec.deaths);
         rec_date = datetime(iRec.dateRep,'InputFormat',"dd/MM/yyyy");
+        try
+            rec_case_num = (iRec.cases);
+            rec_death_num = (iRec.deaths);                
+        catch
+            rec_case_num = (iRec.cases_weekly);
+            rec_death_num = (iRec.deaths_weekly);
+        end
         TimeSeries(current_country_idx).dates(end+1) = rec_date;
         TimeSeries(current_country_idx).new_cases(end+1) = rec_case_num;
-        TimeSeries(current_country_idx).new_deaths(end+1) = rec_death_num;    
+        TimeSeries(current_country_idx).new_deaths(end+1) = rec_death_num;
     end    
 end
 
