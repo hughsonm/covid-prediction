@@ -60,6 +60,7 @@
 ![Georgia](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Georgia.svg)
 ![Germany](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Germany.svg)
 ![Ghana](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Ghana.svg)
+![Gibraltar](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Gibraltar.svg)
 ![Greece](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Greece.svg)
 ![Guam](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Guam.svg)
 ![Guatemala](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Guatemala.svg)

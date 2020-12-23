@@ -262,32 +262,32 @@
       >COVID-19 Death Projection for Venezuela</text
     ></g
     ><g style="stroke-linecap:butt; fill:rgb(0,114,189); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(0,114,189); color-interpolation:linearRGB; stroke-width:0.5;"
-    ><path d="M110.7391 370.57 L121.7464 369.198 L132.7536 366.454 L143.7609 365.425 L154.7681 362.681 L165.7754 358.908 L176.7826 352.048 L187.7899 343.473 L198.7971 335.584 L209.8044 325.294 L220.8116 314.318 L231.8188 297.511 L242.8261 277.617 L253.8333 261.153 L264.8406 243.317 L275.8478 227.196 L286.8551 207.645 L297.8623 186.379 L308.8696 166.142 L319.8768 150.021 L330.8841 134.929 L341.8913 121.552 L352.8986 108.861 L363.9058 99.257 L374.9131 90.682 L385.9203 82.107 L396.9276 75.247 L407.9348 67.358 L418.942 58.783 L429.9493 48.493" style="fill:none; fill-rule:evenodd;"
-      /><path d="M110.7391 367.8143 L123.7397 365.7501 L136.7402 363.0205 L149.7408 359.4294 L162.7414 354.7357 L175.7419 348.6532 L188.7425 340.858 L201.7431 331.0087 L214.7436 318.785 L227.7442 303.9474 L240.7448 286.4143 L253.7453 266.3419 L266.7459 244.1788 L279.7464 220.6636 L292.747 196.746 L305.7476 173.442 L318.7481 151.6671 L331.7487 132.1028 L344.7492 115.1337 L357.7498 100.8603 L370.7504 89.1607 L383.7509 79.7723 L396.7515 72.3662 L409.752 66.6022 L422.7526 62.1632 L435.7532 58.7721 L448.7538 56.1977 L461.7543 54.2524 L474.7549 52.7878 L487.7554 51.6879" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
+    ><path d="M110.7391 370.57 L121.7464 369.198 L132.7536 366.454 L143.7609 365.425 L154.7681 362.681 L165.7754 358.908 L176.7826 352.048 L187.7899 343.473 L198.7971 335.584 L209.8044 325.294 L220.8116 314.318 L231.8188 297.511 L242.8261 277.617 L253.8333 261.153 L264.8406 243.317 L275.8478 227.196 L286.8551 207.645 L297.8623 186.379 L308.8696 166.142 L319.8768 150.021 L330.8841 134.929 L341.8913 121.552 L352.8986 108.861 L363.9058 99.257 L374.9131 90.682 L385.9203 82.107 L396.9276 75.247 L407.9348 67.358 L418.942 58.783 L429.9493 48.493 L440.9565 35.116" style="fill:none; fill-rule:evenodd;"
+      /><path d="M110.7391 366.6299 L123.9374 364.316 L137.1357 361.3034 L150.3339 357.4009 L163.5322 352.3783 L176.7304 345.9682 L189.9287 337.8741 L203.127 327.7901 L216.3252 315.4358 L229.5235 300.6067 L242.7218 283.2381 L255.92 263.4702 L269.1183 241.6922 L282.3166 218.5436 L295.5148 194.8564 L308.7131 171.5424 L321.9113 149.4579 L335.1096 129.2839 L348.3079 111.4572 L361.5061 96.1613 L374.7044 83.3646 L387.9026 72.8832 L401.1009 64.4464 L414.2992 57.7499 L427.4974 52.4935 L440.6957 48.4037 L453.894 45.2431 L467.0922 42.8135 L480.2905 40.9534 L493.4887 39.5337 L506.687 38.4528" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
     /></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="211.2161" style="fill:none;" x1="284.877" x2="284.877" y1="374"
+    ><line y2="204.5317" style="fill:none;" x1="290.1276" x2="290.1276" y1="374"
     /></g
-    ><g transform="translate(284.877,211.2161)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(290.1276,204.5317)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-9.5" style="stroke:none;"
       >Inflection Point</text
     ></g
-    ><g transform="translate(284.877,211.2161)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(290.1276,204.5317)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="3.5" style="stroke:none;"
-      >12-Sep-2020 17:48:30</text
+      >16-Sep-2020 01:56:53</text
       ><text x="0" xml:space="preserve" y="16.5" style="stroke:none;"
-      >8.4514 deaths per day</text
+      >8.2426 deaths per day</text
     ></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="48.4323" style="fill:none;" x1="110.7391" x2="487.7554" y1="48.4323"
+    ><line y2="35.0634" style="fill:none;" x1="110.7391" x2="506.687" y1="35.0634"
     /></g
-    ><g transform="translate(299.2473,48.4323)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(308.7131,35.0634)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-3" style="stroke:none;"
       ></text
     ></g
-    ><g transform="translate(299.2473,48.4323)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(308.7131,35.0634)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="10" style="stroke:none;"
-      >Predicted Count: 949.1771 Total Deaths</text
+      >Predicted Count: 988.1534 Total Deaths</text
     ></g
     ><g style="fill:white; text-rendering:optimizeSpeed; color-rendering:optimizeSpeed; image-rendering:optimizeSpeed; shape-rendering:crispEdges; stroke:white; color-interpolation:sRGB;"
     ><path style="stroke:none;" d="M499 366 L499 339 L417 339 L417 366 Z"
