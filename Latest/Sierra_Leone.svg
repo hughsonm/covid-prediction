@@ -242,32 +242,32 @@
       >COVID-19 Death Projection for Sierra_Leone</text
     ></g
     ><g style="stroke-linecap:butt; fill:rgb(0,114,189); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(0,114,189); color-interpolation:linearRGB; stroke-width:0.5;"
-    ><path d="M152.7143 155.3375 L165.1143 138.1875 L177.5143 116.75 L189.9143 108.175 L202.3143 103.8875 L214.7143 95.3125 L227.1143 91.025 L239.5143 86.7375 L251.9143 82.45 L264.3143 78.1625 L276.7143 78.1625 L289.1143 73.875 L301.5143 69.5875 L313.9143 65.3 L326.3143 65.3 L338.7143 65.3 L351.1143 65.3 L363.5143 65.3 L375.9143 61.0125 L388.3143 56.725 L400.7143 56.725 L413.1143 56.725 L425.5143 56.725 L437.9143 56.725 L450.3143 56.725 L462.7143 56.725 L475.1143 52.4375 L487.5143 52.4375" style="fill:none; fill-rule:evenodd;"
-      /><path d="M152.7143 148.6488 L165.1143 136.1608 L177.5143 124.8462 L189.9143 114.739 L202.3143 105.8241 L214.7143 98.0483 L227.1143 91.3318 L239.5143 85.5791 L251.9143 80.6875 L264.3143 76.5534 L276.7143 73.0777 L289.1143 70.1684 L301.5143 67.742 L313.9143 65.7245 L326.3143 64.0513 L338.7143 62.6666 L351.1143 61.5226 L363.5143 60.5788 L375.9143 59.8011 L388.3143 59.161 L400.7143 58.6344 L413.1143 58.2016 L425.5143 57.8461 L437.9143 57.5541 L450.3143 57.3145 L462.7143 57.1178 L475.1143 56.9564 L487.5143 56.8241" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
+    ><path d="M152.7143 155.3375 L165.1143 138.1875 L177.5143 116.75 L189.9143 108.175 L202.3143 103.8875 L214.7143 95.3125 L227.1143 91.025 L239.5143 86.7375 L251.9143 82.45 L264.3143 78.1625 L276.7143 78.1625 L289.1143 73.875 L301.5143 69.5875 L313.9143 65.3 L326.3143 65.3 L338.7143 65.3 L351.1143 65.3 L363.5143 65.3 L375.9143 61.0125 L388.3143 56.725 L400.7143 56.725 L413.1143 56.725 L425.5143 56.725 L437.9143 56.725 L450.3143 56.725 L462.7143 56.725 L475.1143 52.4375 L487.5143 52.4375 L499.9143 48.15" style="fill:none; fill-rule:evenodd;"
+      /><path d="M152.7143 151.06 L165.1143 137.8079 L177.5143 125.8287 L189.9143 115.1685 L202.3143 105.8139 L214.7143 97.7049 L227.1143 90.7501 L239.5143 84.8396 L251.9143 79.8553 L264.3143 75.6796 L276.7143 72.2006 L289.1143 69.3151 L301.5143 66.931 L313.9143 64.9675 L326.3143 63.3544 L338.7143 62.032 L351.1143 60.9499 L363.5143 60.0656 L375.9143 59.3439 L388.3143 58.7553 L400.7143 58.2758 L413.1143 57.8853 L425.5143 57.5675 L437.9143 57.3089 L450.3143 57.0987 L462.7143 56.9277 L475.1143 56.7888 L487.5143 56.6758 L499.9143 56.5841" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
     /></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="215.111" style="fill:none;" x1="97.2051" x2="97.2051" y1="374"
+    ><line y2="215.0935" style="fill:none;" x1="101.8291" x2="101.8291" y1="374"
     /></g
-    ><g transform="translate(97.2051,215.111)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(101.8291,215.0935)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-9.5" style="stroke:none;"
       >Inflection Point</text
     ></g
-    ><g transform="translate(97.2051,215.111)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(101.8291,215.0935)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="3.5" style="stroke:none;"
-      >14-May-2020 15:56:26</text
+      >17-May-2020 06:35:17</text
       ><text x="0" xml:space="preserve" y="16.5" style="stroke:none;"
-      >0.527 deaths per day</text
+      >0.55117 deaths per day</text
     ></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="56.2219" style="fill:none;" x1="152.7143" x2="487.5143" y1="56.2219"
+    ><line y2="56.187" style="fill:none;" x1="152.7143" x2="499.9143" y1="56.187"
     /></g
-    ><g transform="translate(320.1143,56.2219)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(326.3143,56.187)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-3" style="stroke:none;"
       ></text
     ></g
-    ><g transform="translate(320.1143,56.2219)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(326.3143,56.187)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="10" style="stroke:none;"
-      >Predicted Count: 74.1173 Total Deaths</text
+      >Predicted Count: 74.1255 Total Deaths</text
     ></g
     ><g style="fill:white; text-rendering:optimizeSpeed; color-rendering:optimizeSpeed; image-rendering:optimizeSpeed; shape-rendering:crispEdges; stroke:white; color-interpolation:sRGB;"
     ><path style="stroke:none;" d="M499 366 L499 339 L417 339 L417 366 Z"

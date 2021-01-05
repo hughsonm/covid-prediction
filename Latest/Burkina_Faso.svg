@@ -245,32 +245,32 @@
       >COVID-19 Death Projection for Burkina_Faso</text
     ></g
     ><g style="stroke-linecap:butt; fill:rgb(0,114,189); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(0,114,189); color-interpolation:linearRGB; stroke-width:0.5;"
-    ><path d="M81.1502 192.21 L85.9045 192.21 L90.6588 192.21 L95.4131 192.21 L100.1674 188.78 L104.9218 185.35 L109.6761 185.35 L114.4304 185.35 L119.1847 185.35 L123.939 181.92 L128.6933 181.92 L133.4476 181.92 L138.2019 171.63 L142.9562 157.91 L147.7105 151.05 L152.4648 151.05 L157.2191 144.19 L161.9734 144.19 L166.7277 140.76 L171.482 140.76 L176.2363 140.76 L180.9906 140.76 L185.7449 130.47 L190.4992 113.32" style="fill:none; fill-rule:evenodd;"
-      /><path d="M81.1502 212.6282 L99.0823 196.8899 L117.0144 181.4975 L134.9465 166.7288 L152.8786 152.8165 L170.8107 139.9359 L188.7428 128.2004 L206.6748 117.6634 L224.6069 108.326 L242.539 100.1476 L260.4711 93.057 L278.4032 86.9639 L296.3353 81.7676 L314.2674 77.365 L332.1994 73.6552 L350.1315 70.5437 L368.0636 67.9443 L385.9957 65.7796 L403.9278 63.982 L421.8599 62.4924 L439.7919 61.2604 L457.724 60.2431 L475.6561 59.4041 L493.5882 58.7129" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
+    ><path d="M81.1502 192.21 L85.9045 192.21 L90.6588 192.21 L95.4131 192.21 L100.1674 188.78 L104.9218 185.35 L109.6761 185.35 L114.4304 185.35 L119.1847 185.35 L123.939 181.92 L128.6933 181.92 L133.4476 181.92 L138.2019 171.63 L142.9562 157.91 L147.7105 151.05 L152.4648 151.05 L157.2191 144.19 L161.9734 144.19 L166.7277 140.76 L171.482 140.76 L176.2363 140.76 L180.9906 140.76 L185.7449 130.47 L190.4992 113.32 L195.2535 106.46" style="fill:none; fill-rule:evenodd;"
+      /><path d="M81.1502 211.3626 L98.6495 196.0809 L116.1487 181.1015 L133.6479 166.6757 L151.1472 153.0177 L168.6464 140.2937 L186.1457 128.6167 L203.6449 118.0478 L221.1441 108.6005 L238.6434 100.2499 L256.1426 92.9413 L273.6419 86.6 L291.1411 81.1391 L308.6403 76.4668 L326.1396 72.4914 L343.6388 69.1248 L361.1381 66.2853 L378.6373 63.8983 L396.1365 61.8974 L413.6358 60.2242 L431.135 58.8277 L448.6342 57.6643 L466.1335 56.6962 L483.6328 55.8916 L501.132 55.2236" style="fill:none; fill-rule:evenodd; stroke:rgb(217,83,25);"
     /></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="214.7641" style="fill:none;" x1="78.7281" x2="78.7281" y1="374"
+    ><line y2="213.0018" style="fill:none;" x1="79.2807" x2="79.2807" y1="374"
     /></g
-    ><g transform="translate(78.7281,214.7641)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(79.2807,213.0018)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-9.5" style="stroke:none;"
       >Inflection Point</text
     ></g
-    ><g transform="translate(78.7281,214.7641)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(79.2807,213.0018)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="3.5" style="stroke:none;"
-      >09-Jul-2020 10:24:36</text
+      >10-Jul-2020 05:56:15</text
       ><text x="0" xml:space="preserve" y="16.5" style="stroke:none;"
-      >0.17462 deaths per day</text
+      >0.17363 deaths per day</text
     ></g
     ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:8,3,2,3; stroke:red; color-interpolation:linearRGB; stroke-width:0.5; stroke-miterlimit:1;"
-    ><line y2="55.5282" style="fill:none;" x1="81.1502" x2="493.5882" y1="55.5282"
+    ><line y2="52.0037" style="fill:none;" x1="81.1502" x2="501.132" y1="52.0037"
     /></g
-    ><g transform="translate(287.3692,55.5282)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(291.1411,52.0037)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="-3" style="stroke:none;"
       ></text
     ></g
-    ><g transform="translate(287.3692,55.5282)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
+    ><g transform="translate(291.1411,52.0037)" style="font-size:10px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Helvetica Neue'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="10" style="stroke:none;"
-      >Predicted Count: 92.8489 Total Deaths</text
+      >Predicted Count: 93.8765 Total Deaths</text
     ></g
     ><g style="fill:white; text-rendering:optimizeSpeed; color-rendering:optimizeSpeed; image-rendering:optimizeSpeed; shape-rendering:crispEdges; stroke:white; color-interpolation:sRGB;"
     ><path style="stroke:none;" d="M499 366 L499 339 L417 339 L417 366 Z"

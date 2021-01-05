@@ -80,6 +80,7 @@
 ![Italy](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Italy.svg)
 ![Jamaica](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Jamaica.svg)
 ![Japan](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Japan.svg)
+![Jersey](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Jersey.svg)
 ![Jordan](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Jordan.svg)
 ![Kazakhstan](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Kazakhstan.svg)
 ![Kenya](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Kenya.svg)
