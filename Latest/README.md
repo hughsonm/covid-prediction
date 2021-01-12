@@ -131,6 +131,7 @@
 ![Russia](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Russia.svg)
 ![Rwanda](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Rwanda.svg)
 ![San_Marino](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/San_Marino.svg)
+![Sao_Tome_and_Principe](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Sao_Tome_and_Principe.svg)
 ![Saudi_Arabia](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Saudi_Arabia.svg)
 ![Senegal](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Senegal.svg)
 ![Serbia](https://raw.githubusercontent.com/hughsonm/covid-prediction/master/Latest/Serbia.svg)
